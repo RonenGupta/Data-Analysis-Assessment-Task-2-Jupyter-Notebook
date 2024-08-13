@@ -52,7 +52,7 @@ Audi,A3,2012,3.2,Electric,76393.43
 Audi,A3,2012,3.3,Electric,47102.96
 Audi,A3,2012,3.9,Electric,45069.49
 Audi,A3,2012,4.0,Electric,46052.84
-Audi,A3,2012,4.0,Hybrid,39848.994999999995
+Audi,A3,2012,4.0,Hybrid,39848.99
 Audi,A3,2012,4.2,Electric,26880.96
 Audi,A3,2012,4.2,Hybrid,68630.54
 Audi,A3,2012,4.6,Hybrid,20411.53
@@ -61,7 +61,7 @@ Audi,A3,2012,4.9,Petrol,40180.34
 Audi,A3,2013,1.2,Petrol,49343.49
 Audi,A3,2013,1.7,Petrol,21463.65
 Audi,A3,2013,1.9,Hybrid,42446.92
-Audi,A3,2013,2.0,Diesel,29679.495000000003
+Audi,A3,2013,2.0,Diesel,29679.5
 Audi,A3,2013,2.2,Diesel,43514.72
 Audi,A3,2013,2.4,Diesel,34783.9
 Audi,A3,2013,2.4,Petrol,44081.7
@@ -137,7 +137,7 @@ Audi,A3,2017,1.1,Diesel,30942.52
 Audi,A3,2017,1.3,Petrol,21129.04
 Audi,A3,2017,1.4,Petrol,55353.65
 Audi,A3,2017,1.8,Diesel,78636.17
-Audi,A3,2017,1.8,Hybrid,34804.485
+Audi,A3,2017,1.8,Hybrid,34804.48
 Audi,A3,2017,1.9,Petrol,62440.65
 Audi,A3,2017,2.0,Hybrid,52274.37
 Audi,A3,2017,2.2,Hybrid,58087.77
@@ -154,13 +154,13 @@ Audi,A3,2017,4.6,Electric,44300.5
 Audi,A3,2017,5.0,Electric,25132.91
 Audi,A3,2018,1.2,Petrol,45552.99
 Audi,A3,2018,1.4,Diesel,22072.7
-Audi,A3,2018,2.0,Diesel,63717.315
+Audi,A3,2018,2.0,Diesel,63717.32
 Audi,A3,2018,2.0,Petrol,45992.01
-Audi,A3,2018,2.2,Electric,68617.715
+Audi,A3,2018,2.2,Electric,68617.72
 Audi,A3,2018,2.3,Petrol,63061.57
 Audi,A3,2018,2.8,Electric,65687.17
 Audi,A3,2018,3.1,Hybrid,69522.35
-Audi,A3,2018,3.5,Electric,69650.93000000001
+Audi,A3,2018,3.5,Electric,69650.93
 Audi,A3,2018,3.7,Diesel,21388.96
 Audi,A3,2018,4.5,Diesel,35815.91
 Audi,A3,2018,4.6,Electric,28267.14
@@ -184,7 +184,7 @@ Audi,A3,2020,2.6,Diesel,42814.6
 Audi,A3,2020,2.6,Petrol,77227.42
 Audi,A3,2020,3.7,Hybrid,21422.71
 Audi,A3,2020,3.8,Petrol,29148.47
-Audi,A3,2020,4.0,Hybrid,35165.635
+Audi,A3,2020,4.0,Hybrid,35165.64
 Audi,A3,2020,4.8,Electric,79589.92
 Audi,A4,2010,1.1,Diesel,70849.43
 Audi,A4,2010,1.1,Electric,78210.0
@@ -281,7 +281,7 @@ Audi,A4,2014,5.0,Petrol,45435.61
 Audi,A4,2015,1.1,Diesel,29179.11
 Audi,A4,2015,1.2,Diesel,27634.31
 Audi,A4,2015,1.4,Diesel,24029.05
-Audi,A4,2015,1.7,Electric,70608.765
+Audi,A4,2015,1.7,Electric,70608.76
 Audi,A4,2015,1.7,Petrol,34185.72
 Audi,A4,2015,2.0,Petrol,51644.85
 Audi,A4,2015,2.4,Diesel,45821.14
@@ -292,7 +292,7 @@ Audi,A4,2015,3.2,Hybrid,37334.88
 Audi,A4,2015,3.4,Diesel,49326.3
 Audi,A4,2015,3.5,Electric,51632.64
 Audi,A4,2015,3.5,Hybrid,57024.75
-Audi,A4,2015,3.6,Petrol,49187.715
+Audi,A4,2015,3.6,Petrol,49187.72
 Audi,A4,2015,3.7,Petrol,70979.39
 Audi,A4,2015,3.8,Electric,29194.16
 Audi,A4,2015,4.4,Electric,44975.75
@@ -359,7 +359,7 @@ Audi,A4,2019,2.4,Petrol,30605.23
 Audi,A4,2019,2.7,Diesel,63901.87
 Audi,A4,2019,2.7,Hybrid,75062.76
 Audi,A4,2019,3.0,Electric,66306.18
-Audi,A4,2019,3.3,Electric,31845.545000000002
+Audi,A4,2019,3.3,Electric,31845.54
 Audi,A4,2019,3.8,Electric,47539.89
 Audi,A4,2019,3.8,Hybrid,16586.13
 Audi,A4,2019,4.0,Diesel,42091.87
@@ -398,9 +398,9 @@ Audi,A6,2011,1.2,Electric,78172.9
 Audi,A6,2011,1.6,Diesel,58583.74
 Audi,A6,2011,1.6,Hybrid,42276.14
 Audi,A6,2011,2.0,Diesel,26079.4
-Audi,A6,2011,2.1,Hybrid,22895.875
+Audi,A6,2011,2.1,Hybrid,22895.88
 Audi,A6,2011,2.8,Diesel,59771.84
-Audi,A6,2011,3.0,Electric,34614.520000000004
+Audi,A6,2011,3.0,Electric,34614.52
 Audi,A6,2011,3.4,Petrol,51243.68
 Audi,A6,2011,3.6,Hybrid,31710.39
 Audi,A6,2011,3.8,Petrol,63547.04
@@ -486,7 +486,7 @@ Audi,A6,2016,1.9,Electric,46676.2
 Audi,A6,2016,2.1,Petrol,72070.13
 Audi,A6,2016,2.3,Diesel,26991.88
 Audi,A6,2016,2.3,Petrol,79969.78
-Audi,A6,2016,2.4,Electric,67320.06999999999
+Audi,A6,2016,2.4,Electric,67320.07
 Audi,A6,2016,3.5,Diesel,53988.24
 Audi,A6,2016,3.5,Electric,53508.09
 Audi,A6,2016,3.5,Petrol,45301.82
@@ -567,7 +567,7 @@ Audi,A6,2020,3.7,Electric,39313.51
 Audi,A6,2020,3.7,Hybrid,32971.18
 Audi,A6,2020,4.0,Petrol,36346.42
 Audi,A6,2020,4.1,Diesel,43888.06
-Audi,A6,2020,4.3,Petrol,42801.445
+Audi,A6,2020,4.3,Petrol,42801.44
 Audi,A6,2020,4.7,Hybrid,17993.89
 Audi,A6,2020,4.8,Diesel,39471.71
 Audi,A6,2020,4.8,Hybrid,69740.21
@@ -579,7 +579,7 @@ Audi,Q5,2010,1.8,Diesel,48351.73
 Audi,Q5,2010,2.1,Electric,38652.86
 Audi,Q5,2010,2.5,Hybrid,53726.08
 Audi,Q5,2010,2.5,Petrol,35032.1
-Audi,Q5,2010,2.9,Electric,55540.479999999996
+Audi,Q5,2010,2.9,Electric,55540.48
 Audi,Q5,2010,3.1,Electric,18260.93
 Audi,Q5,2010,3.3,Diesel,15601.19
 Audi,Q5,2010,3.6,Electric,37794.72
@@ -679,7 +679,7 @@ Audi,Q5,2015,4.3,Diesel,35308.86
 Audi,Q5,2015,4.7,Hybrid,20990.8
 Audi,Q5,2016,1.2,Diesel,78446.09
 Audi,Q5,2016,2.2,Diesel,75964.48
-Audi,Q5,2016,2.2,Petrol,77816.305
+Audi,Q5,2016,2.2,Petrol,77816.3
 Audi,Q5,2016,2.3,Electric,54096.33
 Audi,Q5,2016,2.5,Petrol,47540.3
 Audi,Q5,2016,2.6,Diesel,55486.98
@@ -725,14 +725,14 @@ Audi,Q5,2018,4.0,Hybrid,58001.29
 Audi,Q5,2018,4.0,Petrol,63342.5
 Audi,Q5,2018,4.2,Petrol,79686.43
 Audi,Q5,2018,4.3,Diesel,46303.0
-Audi,Q5,2018,4.3,Electric,57888.965
+Audi,Q5,2018,4.3,Electric,57888.96
 Audi,Q5,2018,4.5,Petrol,28428.28
 Audi,Q5,2018,4.6,Diesel,17352.5
 Audi,Q5,2018,4.7,Diesel,63454.14
 Audi,Q5,2018,4.8,Diesel,37122.34
 Audi,Q5,2019,1.3,Petrol,75094.9
 Audi,Q5,2019,1.4,Diesel,79583.96
-Audi,Q5,2019,1.4,Electric,38235.175
+Audi,Q5,2019,1.4,Electric,38235.18
 Audi,Q5,2019,1.6,Petrol,49680.21
 Audi,Q5,2019,1.8,Electric,18525.3
 Audi,Q5,2019,1.9,Diesel,26461.64
@@ -782,7 +782,7 @@ Audi,Q7,2010,2.4,Hybrid,55767.34
 Audi,Q7,2010,2.4,Petrol,34213.18
 Audi,Q7,2010,2.5,Electric,58822.75
 Audi,Q7,2010,2.7,Hybrid,43413.36
-Audi,Q7,2010,2.7,Petrol,27218.153333333332
+Audi,Q7,2010,2.7,Petrol,27218.15
 Audi,Q7,2010,2.9,Electric,50075.28
 Audi,Q7,2010,3.1,Diesel,34490.45
 Audi,Q7,2010,3.3,Hybrid,58123.2
@@ -807,7 +807,7 @@ Audi,Q7,2011,2.9,Diesel,27762.53
 Audi,Q7,2011,3.1,Diesel,52941.17
 Audi,Q7,2011,3.3,Electric,60783.22
 Audi,Q7,2011,3.3,Petrol,42385.45
-Audi,Q7,2011,3.8,Hybrid,28485.145
+Audi,Q7,2011,3.8,Hybrid,28485.14
 Audi,Q7,2011,3.8,Petrol,78342.52
 Audi,Q7,2011,3.9,Petrol,30351.09
 Audi,Q7,2011,4.1,Hybrid,52269.23
@@ -946,7 +946,7 @@ Audi,Q7,2019,1.9,Petrol,73149.07
 Audi,Q7,2019,2.0,Electric,26180.93
 Audi,Q7,2019,2.0,Petrol,60952.05
 Audi,Q7,2019,2.1,Hybrid,41136.91
-Audi,Q7,2019,2.6,Diesel,24702.864999999998
+Audi,Q7,2019,2.6,Diesel,24702.86
 Audi,Q7,2019,2.7,Hybrid,18084.97
 Audi,Q7,2019,3.2,Electric,59237.54
 Audi,Q7,2019,3.7,Diesel,32706.69
@@ -982,7 +982,7 @@ BMW,3 Series,2010,1.3,Petrol,55819.54
 BMW,3 Series,2010,1.7,Hybrid,30176.38
 BMW,3 Series,2010,2.6,Electric,54490.76
 BMW,3 Series,2010,2.7,Petrol,18028.44
-BMW,3 Series,2010,2.8,Petrol,55248.130000000005
+BMW,3 Series,2010,2.8,Petrol,55248.13
 BMW,3 Series,2010,3.1,Diesel,37132.41
 BMW,3 Series,2010,3.3,Diesel,40640.12
 BMW,3 Series,2010,3.6,Petrol,44544.47
@@ -990,7 +990,7 @@ BMW,3 Series,2010,4.1,Electric,30283.72
 BMW,3 Series,2010,4.2,Hybrid,39904.92
 BMW,3 Series,2010,4.4,Hybrid,29602.47
 BMW,3 Series,2010,5.0,Petrol,77490.4
-BMW,3 Series,2011,1.1,Diesel,61209.130000000005
+BMW,3 Series,2011,1.1,Diesel,61209.13
 BMW,3 Series,2011,1.4,Petrol,72302.22
 BMW,3 Series,2011,1.5,Diesel,52539.07
 BMW,3 Series,2011,1.7,Electric,57051.39
@@ -1000,9 +1000,9 @@ BMW,3 Series,2011,2.0,Electric,16324.36
 BMW,3 Series,2011,2.0,Hybrid,27102.36
 BMW,3 Series,2011,2.0,Petrol,19100.19
 BMW,3 Series,2011,2.2,Petrol,48522.5
-BMW,3 Series,2011,2.3,Diesel,72918.04000000001
+BMW,3 Series,2011,2.3,Diesel,72918.04
 BMW,3 Series,2011,2.5,Diesel,37778.52
-BMW,3 Series,2011,2.5,Hybrid,62766.105
+BMW,3 Series,2011,2.5,Hybrid,62766.1
 BMW,3 Series,2011,2.8,Hybrid,45320.32
 BMW,3 Series,2011,3.0,Electric,19869.35
 BMW,3 Series,2011,3.3,Electric,23339.24
@@ -1059,7 +1059,7 @@ BMW,3 Series,2014,2.9,Diesel,63351.69
 BMW,3 Series,2014,3.0,Hybrid,38445.56
 BMW,3 Series,2014,3.0,Petrol,68013.0
 BMW,3 Series,2014,3.2,Diesel,38896.81
-BMW,3 Series,2014,3.2,Electric,28463.765
+BMW,3 Series,2014,3.2,Electric,28463.76
 BMW,3 Series,2014,3.5,Hybrid,24953.76
 BMW,3 Series,2014,3.9,Petrol,23128.44
 BMW,3 Series,2014,4.3,Diesel,67774.65
@@ -1073,7 +1073,7 @@ BMW,3 Series,2015,1.7,Diesel,38290.64
 BMW,3 Series,2015,2.6,Hybrid,31151.62
 BMW,3 Series,2015,2.8,Diesel,17536.47
 BMW,3 Series,2015,3.1,Petrol,75558.84
-BMW,3 Series,2015,3.2,Petrol,58032.765
+BMW,3 Series,2015,3.2,Petrol,58032.76
 BMW,3 Series,2015,3.3,Diesel,51157.08
 BMW,3 Series,2015,3.4,Petrol,79143.25
 BMW,3 Series,2015,3.6,Electric,43972.43
@@ -1096,7 +1096,7 @@ BMW,3 Series,2016,3.0,Electric,26203.56
 BMW,3 Series,2016,3.1,Diesel,60741.82
 BMW,3 Series,2016,4.1,Petrol,46777.94
 BMW,3 Series,2016,4.2,Electric,56955.34
-BMW,3 Series,2016,4.3,Hybrid,33555.165
+BMW,3 Series,2016,4.3,Hybrid,33555.16
 BMW,3 Series,2016,4.4,Electric,43415.96
 BMW,3 Series,2016,4.4,Hybrid,73529.6
 BMW,3 Series,2016,4.5,Petrol,30497.49
@@ -1105,7 +1105,7 @@ BMW,3 Series,2017,1.0,Petrol,34013.63
 BMW,3 Series,2017,1.8,Electric,60652.63
 BMW,3 Series,2017,2.1,Hybrid,16040.36
 BMW,3 Series,2017,2.1,Petrol,66533.37
-BMW,3 Series,2017,2.7,Hybrid,44510.395000000004
+BMW,3 Series,2017,2.7,Hybrid,44510.4
 BMW,3 Series,2017,4.7,Diesel,29377.92
 BMW,3 Series,2017,5.0,Electric,70980.42
 BMW,3 Series,2018,1.1,Electric,67770.26
@@ -1176,7 +1176,7 @@ BMW,5 Series,2010,3.7,Petrol,39996.8
 BMW,5 Series,2010,4.2,Petrol,68342.37
 BMW,5 Series,2010,4.6,Petrol,23754.02
 BMW,5 Series,2010,4.8,Diesel,17824.19
-BMW,5 Series,2011,1.1,Diesel,58230.354999999996
+BMW,5 Series,2011,1.1,Diesel,58230.36
 BMW,5 Series,2011,1.2,Electric,17096.09
 BMW,5 Series,2011,1.3,Hybrid,28474.29
 BMW,5 Series,2011,1.4,Petrol,69191.81
@@ -1193,7 +1193,7 @@ BMW,5 Series,2011,3.4,Electric,19879.73
 BMW,5 Series,2011,3.5,Electric,33765.66
 BMW,5 Series,2011,3.6,Diesel,40703.65
 BMW,5 Series,2011,3.7,Diesel,48823.99
-BMW,5 Series,2011,3.9,Diesel,30274.879999999997
+BMW,5 Series,2011,3.9,Diesel,30274.88
 BMW,5 Series,2011,4.1,Petrol,70838.23
 BMW,5 Series,2012,1.1,Hybrid,75175.23
 BMW,5 Series,2012,1.2,Petrol,35871.29
@@ -1223,7 +1223,7 @@ BMW,5 Series,2013,2.5,Electric,44518.73
 BMW,5 Series,2013,3.2,Hybrid,45786.14
 BMW,5 Series,2013,3.4,Hybrid,47993.65
 BMW,5 Series,2013,3.6,Hybrid,60157.42
-BMW,5 Series,2013,3.7,Electric,60053.765
+BMW,5 Series,2013,3.7,Electric,60053.76
 BMW,5 Series,2013,3.8,Petrol,50672.52
 BMW,5 Series,2013,4.0,Diesel,15811.18
 BMW,5 Series,2013,4.1,Petrol,16251.51
@@ -1251,7 +1251,7 @@ BMW,5 Series,2014,3.8,Diesel,43618.81
 BMW,5 Series,2014,3.9,Hybrid,38488.61
 BMW,5 Series,2014,4.0,Petrol,35559.51
 BMW,5 Series,2014,4.1,Petrol,33082.37
-BMW,5 Series,2014,4.3,Diesel,30809.725
+BMW,5 Series,2014,4.3,Diesel,30809.72
 BMW,5 Series,2014,4.5,Hybrid,26277.31
 BMW,5 Series,2014,4.7,Hybrid,44320.43
 BMW,5 Series,2014,4.9,Diesel,45932.09
@@ -1261,9 +1261,9 @@ BMW,5 Series,2015,1.5,Diesel,47229.84
 BMW,5 Series,2015,1.8,Diesel,45321.85
 BMW,5 Series,2015,2.0,Diesel,56291.74
 BMW,5 Series,2015,2.0,Petrol,69845.37
-BMW,5 Series,2015,2.1,Electric,67734.925
+BMW,5 Series,2015,2.1,Electric,67734.92
 BMW,5 Series,2015,2.2,Electric,71948.97
-BMW,5 Series,2015,2.2,Hybrid,45240.863333333335
+BMW,5 Series,2015,2.2,Hybrid,45240.86
 BMW,5 Series,2015,2.3,Diesel,65287.73
 BMW,5 Series,2015,2.3,Hybrid,65545.35
 BMW,5 Series,2015,2.4,Petrol,56933.27
@@ -1333,12 +1333,12 @@ BMW,5 Series,2018,1.4,Hybrid,72242.62
 BMW,5 Series,2018,1.8,Petrol,54514.63
 BMW,5 Series,2018,1.9,Hybrid,74010.9
 BMW,5 Series,2018,2.0,Electric,38165.94
-BMW,5 Series,2018,2.1,Petrol,55995.285
+BMW,5 Series,2018,2.1,Petrol,55995.28
 BMW,5 Series,2018,2.4,Hybrid,65694.43
 BMW,5 Series,2018,2.8,Diesel,39020.75
-BMW,5 Series,2018,3.1,Hybrid,64364.159999999996
+BMW,5 Series,2018,3.1,Hybrid,64364.16
 BMW,5 Series,2018,3.2,Electric,35757.97
-BMW,5 Series,2018,4.0,Diesel,58865.53999999999
+BMW,5 Series,2018,4.0,Diesel,58865.54
 BMW,5 Series,2018,4.1,Petrol,44681.71
 BMW,5 Series,2018,4.2,Diesel,28190.93
 BMW,5 Series,2018,4.8,Diesel,64678.96
@@ -1489,7 +1489,7 @@ BMW,7 Series,2016,4.9,Diesel,77732.01
 BMW,7 Series,2016,4.9,Electric,53305.63
 BMW,7 Series,2017,1.2,Hybrid,31249.77
 BMW,7 Series,2017,1.8,Hybrid,62021.37
-BMW,7 Series,2017,2.0,Petrol,51695.475
+BMW,7 Series,2017,2.0,Petrol,51695.48
 BMW,7 Series,2017,2.2,Diesel,36093.43
 BMW,7 Series,2017,2.3,Petrol,45607.62
 BMW,7 Series,2017,2.4,Electric,71524.95
@@ -1522,7 +1522,7 @@ BMW,7 Series,2019,1.1,Petrol,39188.92
 BMW,7 Series,2019,1.8,Hybrid,60216.36
 BMW,7 Series,2019,2.0,Electric,16521.09
 BMW,7 Series,2019,2.7,Electric,75398.17
-BMW,7 Series,2019,2.9,Diesel,32430.285
+BMW,7 Series,2019,2.9,Diesel,32430.28
 BMW,7 Series,2019,2.9,Petrol,51128.15
 BMW,7 Series,2019,3.1,Petrol,22066.88
 BMW,7 Series,2019,3.2,Electric,45093.45
@@ -1530,7 +1530,7 @@ BMW,7 Series,2019,3.3,Electric,48702.26
 BMW,7 Series,2019,3.5,Diesel,23319.61
 BMW,7 Series,2019,4.0,Diesel,58128.27
 BMW,7 Series,2019,4.0,Electric,78016.4
-BMW,7 Series,2019,4.1,Diesel,68457.075
+BMW,7 Series,2019,4.1,Diesel,68457.08
 BMW,7 Series,2019,4.6,Diesel,65468.79
 BMW,7 Series,2020,1.3,Hybrid,64370.13
 BMW,7 Series,2020,1.5,Electric,45477.35
@@ -1538,7 +1538,7 @@ BMW,7 Series,2020,1.6,Hybrid,31119.39
 BMW,7 Series,2020,1.7,Petrol,70899.77
 BMW,7 Series,2020,2.4,Diesel,25490.49
 BMW,7 Series,2020,2.5,Hybrid,47297.96
-BMW,7 Series,2020,2.5,Petrol,25993.275
+BMW,7 Series,2020,2.5,Petrol,25993.28
 BMW,7 Series,2020,2.7,Diesel,59332.87
 BMW,7 Series,2020,3.1,Electric,25367.07
 BMW,7 Series,2020,3.5,Hybrid,43526.75
@@ -1570,7 +1570,7 @@ BMW,X3,2011,2.0,Hybrid,47222.27
 BMW,X3,2011,2.0,Petrol,76949.0
 BMW,X3,2011,2.1,Diesel,41110.2
 BMW,X3,2011,2.1,Electric,65503.48
-BMW,X3,2011,2.2,Hybrid,64875.335
+BMW,X3,2011,2.2,Hybrid,64875.34
 BMW,X3,2011,2.7,Hybrid,62303.98
 BMW,X3,2011,3.3,Petrol,42765.22
 BMW,X3,2011,3.4,Petrol,34309.09
@@ -1638,7 +1638,7 @@ BMW,X3,2015,4.2,Diesel,73342.53
 BMW,X3,2015,4.2,Hybrid,46198.48
 BMW,X3,2015,4.3,Diesel,22129.77
 BMW,X3,2015,4.5,Hybrid,76181.23
-BMW,X3,2015,4.5,Petrol,48149.475
+BMW,X3,2015,4.5,Petrol,48149.48
 BMW,X3,2015,4.8,Electric,71154.68
 BMW,X3,2015,4.8,Petrol,28146.16
 BMW,X3,2015,5.0,Petrol,62035.31
@@ -1712,7 +1712,7 @@ BMW,X3,2019,2.0,Electric,33083.45
 BMW,X3,2019,2.0,Petrol,17190.2
 BMW,X3,2019,2.3,Electric,28108.1
 BMW,X3,2019,2.5,Hybrid,38261.72
-BMW,X3,2019,2.6,Electric,75150.95999999999
+BMW,X3,2019,2.6,Electric,75150.96
 BMW,X3,2019,2.9,Diesel,17133.42
 BMW,X3,2019,3.1,Petrol,73828.24
 BMW,X3,2019,3.5,Diesel,41824.73
@@ -1726,7 +1726,7 @@ BMW,X3,2019,4.6,Diesel,45468.34
 BMW,X3,2019,4.8,Electric,19892.33
 BMW,X3,2019,4.8,Petrol,19953.62
 BMW,X3,2019,4.9,Diesel,36170.76
-BMW,X3,2020,1.4,Diesel,38732.225000000006
+BMW,X3,2020,1.4,Diesel,38732.23
 BMW,X3,2020,1.5,Petrol,30603.82
 BMW,X3,2020,1.6,Diesel,57344.27
 BMW,X3,2020,1.7,Electric,15208.02
@@ -1738,7 +1738,7 @@ BMW,X3,2020,4.6,Petrol,67908.85
 BMW,X3,2020,4.7,Diesel,29259.66
 BMW,X3,2020,5.0,Hybrid,68653.85
 BMW,X3,2020,5.0,Petrol,29258.37
-BMW,X5,2010,1.1,Electric,67211.995
+BMW,X5,2010,1.1,Electric,67212.0
 BMW,X5,2010,1.1,Hybrid,59576.66
 BMW,X5,2010,1.2,Diesel,40124.1
 BMW,X5,2010,1.3,Electric,65993.88
@@ -1762,7 +1762,7 @@ BMW,X5,2011,1.9,Electric,20706.56
 BMW,X5,2011,2.0,Diesel,27971.95
 BMW,X5,2011,2.0,Petrol,49210.87
 BMW,X5,2011,2.4,Petrol,22922.17
-BMW,X5,2011,2.5,Diesel,51347.475000000006
+BMW,X5,2011,2.5,Diesel,51347.48
 BMW,X5,2011,2.7,Hybrid,47677.52
 BMW,X5,2011,2.7,Petrol,31799.16
 BMW,X5,2011,3.0,Petrol,24631.3
@@ -1778,7 +1778,7 @@ BMW,X5,2012,2.9,Hybrid,43871.85
 BMW,X5,2012,3.0,Diesel,26164.75
 BMW,X5,2012,3.1,Electric,25868.66
 BMW,X5,2012,3.4,Hybrid,31555.85
-BMW,X5,2012,4.4,Petrol,53313.46000000001
+BMW,X5,2012,4.4,Petrol,53313.46
 BMW,X5,2012,4.6,Hybrid,74464.52
 BMW,X5,2012,4.7,Diesel,62278.8
 BMW,X5,2012,4.7,Electric,56600.06
@@ -1802,7 +1802,7 @@ BMW,X5,2014,1.8,Hybrid,77015.09
 BMW,X5,2014,2.1,Electric,24794.08
 BMW,X5,2014,2.6,Hybrid,28537.8
 BMW,X5,2014,3.0,Hybrid,61183.51
-BMW,X5,2014,3.0,Petrol,38316.415
+BMW,X5,2014,3.0,Petrol,38316.42
 BMW,X5,2014,3.7,Hybrid,24650.63
 BMW,X5,2014,3.8,Diesel,71271.24
 BMW,X5,2014,3.9,Hybrid,50189.74
@@ -1812,7 +1812,7 @@ BMW,X5,2014,4.8,Hybrid,52836.94
 BMW,X5,2015,1.1,Diesel,18032.41
 BMW,X5,2015,1.2,Hybrid,26820.38
 BMW,X5,2015,1.7,Petrol,26240.86
-BMW,X5,2015,2.4,Electric,51884.399999999994
+BMW,X5,2015,2.4,Electric,51884.4
 BMW,X5,2015,2.4,Hybrid,59741.02
 BMW,X5,2015,3.0,Diesel,59449.64
 BMW,X5,2015,3.0,Petrol,74388.85
@@ -1849,7 +1849,7 @@ BMW,X5,2017,3.0,Electric,72427.62
 BMW,X5,2017,3.1,Electric,61324.93
 BMW,X5,2017,3.3,Diesel,37692.06
 BMW,X5,2017,3.7,Electric,49568.82
-BMW,X5,2017,4.1,Hybrid,54170.195
+BMW,X5,2017,4.1,Hybrid,54170.2
 BMW,X5,2017,4.5,Petrol,34304.73
 BMW,X5,2017,4.6,Electric,34042.91
 BMW,X5,2017,4.7,Hybrid,21004.09
@@ -1892,13 +1892,13 @@ BMW,X5,2019,3.0,Diesel,55049.98
 BMW,X5,2019,3.2,Diesel,33929.22
 BMW,X5,2019,3.2,Petrol,42876.82
 BMW,X5,2019,3.7,Diesel,55902.02
-BMW,X5,2019,3.7,Electric,39773.875
+BMW,X5,2019,3.7,Electric,39773.88
 BMW,X5,2019,4.0,Diesel,28967.74
 BMW,X5,2019,4.2,Electric,59870.44
 BMW,X5,2019,4.4,Hybrid,20993.03
 BMW,X5,2019,4.5,Hybrid,64004.92
 BMW,X5,2020,1.2,Diesel,50283.89
-BMW,X5,2020,1.5,Electric,69069.775
+BMW,X5,2020,1.5,Electric,69069.77
 BMW,X5,2020,1.7,Electric,30873.52
 BMW,X5,2020,1.8,Diesel,46400.27
 BMW,X5,2020,2.3,Hybrid,33998.52
@@ -1917,11 +1917,11 @@ Chevrolet,Equinox,2010,1.8,Diesel,77508.77
 Chevrolet,Equinox,2010,1.9,Petrol,61318.39
 Chevrolet,Equinox,2010,2.0,Petrol,75431.86
 Chevrolet,Equinox,2010,2.1,Electric,43036.65
-Chevrolet,Equinox,2010,2.2,Diesel,52252.049999999996
+Chevrolet,Equinox,2010,2.2,Diesel,52252.05
 Chevrolet,Equinox,2010,2.3,Hybrid,27454.18
 Chevrolet,Equinox,2010,2.4,Petrol,21637.35
 Chevrolet,Equinox,2010,2.8,Diesel,53317.64
-Chevrolet,Equinox,2010,3.1,Diesel,42720.145
+Chevrolet,Equinox,2010,3.1,Diesel,42720.14
 Chevrolet,Equinox,2010,3.2,Petrol,43058.94
 Chevrolet,Equinox,2010,3.3,Electric,32736.53
 Chevrolet,Equinox,2010,3.5,Electric,77518.54
@@ -1974,7 +1974,7 @@ Chevrolet,Equinox,2012,4.8,Petrol,40324.72
 Chevrolet,Equinox,2012,4.9,Hybrid,27324.86
 Chevrolet,Equinox,2013,1.1,Diesel,45092.34
 Chevrolet,Equinox,2013,1.5,Electric,71147.45
-Chevrolet,Equinox,2013,1.5,Hybrid,35904.335
+Chevrolet,Equinox,2013,1.5,Hybrid,35904.34
 Chevrolet,Equinox,2013,2.8,Electric,40339.17
 Chevrolet,Equinox,2013,3.1,Diesel,47590.79
 Chevrolet,Equinox,2013,3.1,Petrol,23221.15
@@ -2010,7 +2010,7 @@ Chevrolet,Equinox,2015,2.2,Electric,17557.23
 Chevrolet,Equinox,2015,2.3,Electric,26605.7
 Chevrolet,Equinox,2015,2.4,Diesel,63522.68
 Chevrolet,Equinox,2015,2.9,Diesel,23751.91
-Chevrolet,Equinox,2015,3.1,Electric,44069.28999999999
+Chevrolet,Equinox,2015,3.1,Electric,44069.29
 Chevrolet,Equinox,2015,3.9,Diesel,51516.18
 Chevrolet,Equinox,2015,4.1,Diesel,40848.54
 Chevrolet,Equinox,2015,4.4,Petrol,53234.11
@@ -2108,8 +2108,8 @@ Chevrolet,Impala,2010,1.6,Hybrid,33052.19
 Chevrolet,Impala,2010,1.7,Electric,77646.61
 Chevrolet,Impala,2010,1.8,Diesel,18996.61
 Chevrolet,Impala,2010,2.0,Hybrid,39436.37
-Chevrolet,Impala,2010,2.1,Petrol,75113.635
-Chevrolet,Impala,2010,2.5,Hybrid,34124.585
+Chevrolet,Impala,2010,2.1,Petrol,75113.63
+Chevrolet,Impala,2010,2.5,Hybrid,34124.58
 Chevrolet,Impala,2010,2.9,Petrol,72148.37
 Chevrolet,Impala,2010,3.0,Diesel,67959.9
 Chevrolet,Impala,2010,3.2,Petrol,55069.09
@@ -2166,12 +2166,12 @@ Chevrolet,Impala,2013,1.8,Diesel,25118.87
 Chevrolet,Impala,2013,2.0,Electric,41389.01
 Chevrolet,Impala,2013,2.1,Petrol,16475.83
 Chevrolet,Impala,2013,2.2,Diesel,38720.73
-Chevrolet,Impala,2013,2.5,Electric,55865.630000000005
+Chevrolet,Impala,2013,2.5,Electric,55865.63
 Chevrolet,Impala,2013,3.0,Petrol,72872.75
 Chevrolet,Impala,2013,3.2,Petrol,33188.0
 Chevrolet,Impala,2013,3.6,Electric,50227.41
 Chevrolet,Impala,2013,3.7,Diesel,36523.95
-Chevrolet,Impala,2013,3.8,Petrol,35667.635
+Chevrolet,Impala,2013,3.8,Petrol,35667.64
 Chevrolet,Impala,2013,4.2,Diesel,21272.15
 Chevrolet,Impala,2013,4.3,Diesel,44617.79
 Chevrolet,Impala,2013,4.3,Petrol,44484.85
@@ -2192,9 +2192,9 @@ Chevrolet,Impala,2015,1.5,Electric,74729.22
 Chevrolet,Impala,2015,1.6,Electric,17012.4
 Chevrolet,Impala,2015,1.6,Hybrid,75743.86
 Chevrolet,Impala,2015,2.2,Hybrid,38188.24
-Chevrolet,Impala,2015,2.5,Hybrid,65496.854999999996
+Chevrolet,Impala,2015,2.5,Hybrid,65496.86
 Chevrolet,Impala,2015,3.0,Diesel,50005.46
-Chevrolet,Impala,2015,3.3,Hybrid,37410.145000000004
+Chevrolet,Impala,2015,3.3,Hybrid,37410.15
 Chevrolet,Impala,2015,3.9,Petrol,42426.26
 Chevrolet,Impala,2015,4.1,Hybrid,27739.3
 Chevrolet,Impala,2015,4.4,Hybrid,79739.98
@@ -2258,7 +2258,7 @@ Chevrolet,Impala,2019,2.3,Petrol,70532.55
 Chevrolet,Impala,2019,2.6,Electric,45862.59
 Chevrolet,Impala,2019,2.6,Petrol,16505.24
 Chevrolet,Impala,2019,2.8,Diesel,72992.15
-Chevrolet,Impala,2019,3.0,Hybrid,56798.775
+Chevrolet,Impala,2019,3.0,Hybrid,56798.78
 Chevrolet,Impala,2019,3.0,Petrol,50657.06
 Chevrolet,Impala,2019,3.1,Diesel,62390.22
 Chevrolet,Impala,2019,3.3,Electric,30436.66
@@ -2347,7 +2347,7 @@ Chevrolet,Malibu,2013,4.2,Electric,54394.78
 Chevrolet,Malibu,2013,4.2,Hybrid,16175.56
 Chevrolet,Malibu,2013,4.4,Hybrid,46173.47
 Chevrolet,Malibu,2013,4.5,Diesel,23810.93
-Chevrolet,Malibu,2013,4.8,Electric,56553.265
+Chevrolet,Malibu,2013,4.8,Electric,56553.26
 Chevrolet,Malibu,2013,5.0,Electric,35533.35
 Chevrolet,Malibu,2014,1.0,Diesel,24986.22
 Chevrolet,Malibu,2014,1.3,Diesel,59999.83
@@ -2366,7 +2366,7 @@ Chevrolet,Malibu,2014,3.6,Electric,57526.09
 Chevrolet,Malibu,2014,3.7,Diesel,66400.77
 Chevrolet,Malibu,2014,4.0,Hybrid,44104.51
 Chevrolet,Malibu,2014,4.2,Diesel,74480.41
-Chevrolet,Malibu,2014,4.2,Electric,48417.655
+Chevrolet,Malibu,2014,4.2,Electric,48417.66
 Chevrolet,Malibu,2014,4.3,Hybrid,73844.56
 Chevrolet,Malibu,2015,1.7,Petrol,20465.65
 Chevrolet,Malibu,2015,1.9,Diesel,35648.74
@@ -2396,7 +2396,7 @@ Chevrolet,Malibu,2016,1.5,Diesel,41466.01
 Chevrolet,Malibu,2016,1.6,Diesel,72533.65
 Chevrolet,Malibu,2016,1.7,Electric,40140.38
 Chevrolet,Malibu,2016,1.8,Diesel,79186.48
-Chevrolet,Malibu,2016,2.3,Diesel,59944.345
+Chevrolet,Malibu,2016,2.3,Diesel,59944.34
 Chevrolet,Malibu,2016,2.4,Diesel,44584.79
 Chevrolet,Malibu,2016,2.5,Petrol,69362.25
 Chevrolet,Malibu,2016,2.6,Hybrid,19587.85
@@ -2439,7 +2439,7 @@ Chevrolet,Malibu,2017,4.6,Hybrid,42183.44
 Chevrolet,Malibu,2017,4.8,Petrol,72772.23
 Chevrolet,Malibu,2018,1.2,Diesel,59784.51
 Chevrolet,Malibu,2018,1.6,Hybrid,43427.38
-Chevrolet,Malibu,2018,1.8,Hybrid,46268.20333333333
+Chevrolet,Malibu,2018,1.8,Hybrid,46268.2
 Chevrolet,Malibu,2018,1.9,Diesel,76652.99
 Chevrolet,Malibu,2018,1.9,Electric,47383.54
 Chevrolet,Malibu,2018,2.3,Diesel,67157.75
@@ -2480,7 +2480,7 @@ Chevrolet,Malibu,2020,1.4,Diesel,33047.26
 Chevrolet,Malibu,2020,1.4,Electric,63336.6
 Chevrolet,Malibu,2020,1.7,Diesel,39389.07
 Chevrolet,Malibu,2020,1.9,Diesel,46504.9
-Chevrolet,Malibu,2020,2.9,Electric,70454.925
+Chevrolet,Malibu,2020,2.9,Electric,70454.92
 Chevrolet,Malibu,2020,2.9,Hybrid,49288.41
 Chevrolet,Malibu,2020,3.1,Hybrid,46611.78
 Chevrolet,Malibu,2020,3.1,Petrol,68595.97
@@ -2504,11 +2504,11 @@ Chevrolet,Spark,2010,3.0,Diesel,38299.02
 Chevrolet,Spark,2010,3.1,Petrol,36248.82
 Chevrolet,Spark,2010,4.1,Electric,24895.21
 Chevrolet,Spark,2010,4.2,Petrol,34144.69
-Chevrolet,Spark,2010,4.3,Diesel,37894.130000000005
+Chevrolet,Spark,2010,4.3,Diesel,37894.13
 Chevrolet,Spark,2010,4.5,Hybrid,45076.29
 Chevrolet,Spark,2010,4.6,Petrol,32167.35
 Chevrolet,Spark,2010,4.7,Hybrid,70019.99
-Chevrolet,Spark,2010,4.9,Hybrid,31901.899999999998
+Chevrolet,Spark,2010,4.9,Hybrid,31901.9
 Chevrolet,Spark,2011,1.0,Hybrid,49555.77
 Chevrolet,Spark,2011,1.0,Petrol,38778.22
 Chevrolet,Spark,2011,1.2,Hybrid,76190.37
@@ -2540,7 +2540,7 @@ Chevrolet,Spark,2012,2.2,Diesel,38615.95
 Chevrolet,Spark,2012,2.2,Electric,31717.2
 Chevrolet,Spark,2012,2.2,Petrol,45125.38
 Chevrolet,Spark,2012,2.4,Hybrid,40654.52
-Chevrolet,Spark,2012,2.5,Hybrid,36672.335
+Chevrolet,Spark,2012,2.5,Hybrid,36672.34
 Chevrolet,Spark,2012,2.9,Hybrid,44869.05
 Chevrolet,Spark,2012,2.9,Petrol,38470.66
 Chevrolet,Spark,2012,3.3,Petrol,60556.6
@@ -2596,7 +2596,7 @@ Chevrolet,Spark,2015,1.2,Electric,41424.73
 Chevrolet,Spark,2015,1.2,Petrol,40666.21
 Chevrolet,Spark,2015,1.3,Hybrid,68907.74
 Chevrolet,Spark,2015,1.4,Petrol,53424.6
-Chevrolet,Spark,2015,1.5,Hybrid,20881.895
+Chevrolet,Spark,2015,1.5,Hybrid,20881.9
 Chevrolet,Spark,2015,1.8,Hybrid,23096.93
 Chevrolet,Spark,2015,2.1,Electric,61783.39
 Chevrolet,Spark,2015,2.1,Hybrid,29786.68
@@ -2612,7 +2612,7 @@ Chevrolet,Spark,2015,3.6,Hybrid,67775.21
 Chevrolet,Spark,2015,3.6,Petrol,53547.3
 Chevrolet,Spark,2015,4.2,Petrol,56138.38
 Chevrolet,Spark,2015,4.3,Diesel,38767.05
-Chevrolet,Spark,2015,4.6,Diesel,23317.875
+Chevrolet,Spark,2015,4.6,Diesel,23317.88
 Chevrolet,Spark,2015,4.9,Electric,57349.38
 Chevrolet,Spark,2016,1.0,Hybrid,59074.63
 Chevrolet,Spark,2016,1.3,Diesel,47522.93
@@ -2624,7 +2624,7 @@ Chevrolet,Spark,2016,2.1,Hybrid,54586.06
 Chevrolet,Spark,2016,2.2,Petrol,15398.43
 Chevrolet,Spark,2016,2.3,Hybrid,36203.59
 Chevrolet,Spark,2016,2.5,Electric,33612.13
-Chevrolet,Spark,2016,2.6,Electric,49293.835
+Chevrolet,Spark,2016,2.6,Electric,49293.84
 Chevrolet,Spark,2016,2.8,Hybrid,27124.09
 Chevrolet,Spark,2016,2.8,Petrol,73105.82
 Chevrolet,Spark,2016,3.2,Diesel,36344.37
@@ -2647,13 +2647,13 @@ Chevrolet,Spark,2017,2.8,Diesel,76180.29
 Chevrolet,Spark,2017,3.2,Diesel,38240.86
 Chevrolet,Spark,2017,3.2,Petrol,27149.64
 Chevrolet,Spark,2017,3.3,Diesel,17007.77
-Chevrolet,Spark,2017,3.3,Hybrid,73737.995
+Chevrolet,Spark,2017,3.3,Hybrid,73738.0
 Chevrolet,Spark,2017,3.4,Electric,15489.58
 Chevrolet,Spark,2017,3.5,Petrol,37126.15
 Chevrolet,Spark,2017,3.7,Electric,53648.51
 Chevrolet,Spark,2017,4.0,Electric,59329.78
 Chevrolet,Spark,2017,4.1,Electric,50300.59
-Chevrolet,Spark,2017,4.3,Hybrid,19464.375
+Chevrolet,Spark,2017,4.3,Hybrid,19464.38
 Chevrolet,Spark,2017,4.6,Petrol,53953.51
 Chevrolet,Spark,2018,1.0,Hybrid,45982.71
 Chevrolet,Spark,2018,1.9,Electric,28990.2
@@ -2695,15 +2695,15 @@ Chevrolet,Spark,2020,1.9,Electric,76081.15
 Chevrolet,Spark,2020,2.1,Petrol,46805.6
 Chevrolet,Spark,2020,2.6,Electric,16496.25
 Chevrolet,Spark,2020,2.7,Diesel,70169.28
-Chevrolet,Spark,2020,3.1,Diesel,27163.675
-Chevrolet,Spark,2020,3.1,Petrol,31154.215
+Chevrolet,Spark,2020,3.1,Diesel,27163.68
+Chevrolet,Spark,2020,3.1,Petrol,31154.22
 Chevrolet,Spark,2020,3.2,Diesel,74936.5
 Chevrolet,Spark,2020,3.2,Petrol,45077.29
 Chevrolet,Spark,2020,3.5,Petrol,27289.73
 Chevrolet,Spark,2020,3.6,Diesel,49105.43
 Chevrolet,Spark,2020,3.6,Electric,56935.93
 Chevrolet,Spark,2020,3.6,Hybrid,60942.72
-Chevrolet,Spark,2020,4.2,Electric,39210.805
+Chevrolet,Spark,2020,4.2,Electric,39210.8
 Chevrolet,Spark,2020,4.2,Hybrid,54890.19
 Chevrolet,Spark,2020,4.9,Petrol,23453.04
 Chevrolet,Tahoe,2010,1.3,Diesel,30824.81
@@ -2712,7 +2712,7 @@ Chevrolet,Tahoe,2010,1.6,Diesel,67383.88
 Chevrolet,Tahoe,2010,2.6,Petrol,18978.06
 Chevrolet,Tahoe,2010,2.7,Electric,22274.34
 Chevrolet,Tahoe,2010,2.8,Hybrid,47640.75
-Chevrolet,Tahoe,2010,3.0,Diesel,51099.44499999999
+Chevrolet,Tahoe,2010,3.0,Diesel,51099.44
 Chevrolet,Tahoe,2010,3.2,Diesel,78667.74
 Chevrolet,Tahoe,2010,3.3,Petrol,18101.03
 Chevrolet,Tahoe,2010,3.5,Diesel,51419.87
@@ -2736,7 +2736,7 @@ Chevrolet,Tahoe,2011,3.2,Petrol,19478.28
 Chevrolet,Tahoe,2011,3.6,Hybrid,69084.12
 Chevrolet,Tahoe,2011,3.6,Petrol,37852.14
 Chevrolet,Tahoe,2011,4.4,Diesel,27513.1
-Chevrolet,Tahoe,2011,4.5,Electric,24545.425
+Chevrolet,Tahoe,2011,4.5,Electric,24545.42
 Chevrolet,Tahoe,2011,4.8,Hybrid,35009.23
 Chevrolet,Tahoe,2011,4.9,Petrol,46942.3
 Chevrolet,Tahoe,2011,5.0,Petrol,39794.86
@@ -2787,7 +2787,7 @@ Chevrolet,Tahoe,2014,1.9,Petrol,15939.51
 Chevrolet,Tahoe,2014,2.1,Petrol,27393.41
 Chevrolet,Tahoe,2014,2.6,Hybrid,45537.35
 Chevrolet,Tahoe,2014,3.3,Electric,57508.78
-Chevrolet,Tahoe,2014,3.4,Hybrid,50425.915
+Chevrolet,Tahoe,2014,3.4,Hybrid,50425.92
 Chevrolet,Tahoe,2014,3.9,Petrol,60239.74
 Chevrolet,Tahoe,2014,4.8,Hybrid,44830.88
 Chevrolet,Tahoe,2015,1.1,Petrol,66556.42
@@ -2799,7 +2799,7 @@ Chevrolet,Tahoe,2015,2.1,Petrol,58141.53
 Chevrolet,Tahoe,2015,2.6,Petrol,69784.41
 Chevrolet,Tahoe,2015,3.2,Hybrid,27752.01
 Chevrolet,Tahoe,2015,3.5,Petrol,26918.7
-Chevrolet,Tahoe,2015,3.7,Electric,52205.36000000001
+Chevrolet,Tahoe,2015,3.7,Electric,52205.36
 Chevrolet,Tahoe,2015,3.7,Hybrid,28012.91
 Chevrolet,Tahoe,2015,4.2,Petrol,48293.17
 Chevrolet,Tahoe,2016,1.2,Electric,25224.65
@@ -2810,7 +2810,7 @@ Chevrolet,Tahoe,2016,2.5,Diesel,64213.28
 Chevrolet,Tahoe,2016,2.5,Electric,65505.9
 Chevrolet,Tahoe,2016,2.6,Hybrid,63309.58
 Chevrolet,Tahoe,2016,3.1,Diesel,57741.16
-Chevrolet,Tahoe,2016,3.2,Diesel,49054.175
+Chevrolet,Tahoe,2016,3.2,Diesel,49054.18
 Chevrolet,Tahoe,2016,3.3,Diesel,43948.5
 Chevrolet,Tahoe,2016,3.6,Hybrid,41749.05
 Chevrolet,Tahoe,2017,1.4,Diesel,75854.88
@@ -2863,13 +2863,13 @@ Chevrolet,Tahoe,2019,4.0,Petrol,32661.31
 Chevrolet,Tahoe,2019,4.1,Petrol,59761.4
 Chevrolet,Tahoe,2019,4.3,Petrol,33168.77
 Chevrolet,Tahoe,2019,4.4,Diesel,61281.82
-Chevrolet,Tahoe,2019,4.4,Hybrid,44807.375
+Chevrolet,Tahoe,2019,4.4,Hybrid,44807.38
 Chevrolet,Tahoe,2019,4.6,Electric,50622.97
 Chevrolet,Tahoe,2019,4.8,Hybrid,44232.97
-Chevrolet,Tahoe,2019,4.9,Petrol,26164.270000000004
+Chevrolet,Tahoe,2019,4.9,Petrol,26164.27
 Chevrolet,Tahoe,2020,1.3,Hybrid,32996.82
 Chevrolet,Tahoe,2020,1.3,Petrol,27878.31
-Chevrolet,Tahoe,2020,1.5,Petrol,57521.520000000004
+Chevrolet,Tahoe,2020,1.5,Petrol,57521.52
 Chevrolet,Tahoe,2020,1.9,Electric,17616.53
 Chevrolet,Tahoe,2020,1.9,Petrol,64843.62
 Chevrolet,Tahoe,2020,2.4,Petrol,77433.42
@@ -2878,7 +2878,7 @@ Chevrolet,Tahoe,2020,2.6,Petrol,49432.07
 Chevrolet,Tahoe,2020,2.7,Electric,21970.69
 Chevrolet,Tahoe,2020,2.8,Diesel,77051.81
 Chevrolet,Tahoe,2020,3.0,Petrol,73976.34
-Chevrolet,Tahoe,2020,3.3,Diesel,40217.604999999996
+Chevrolet,Tahoe,2020,3.3,Diesel,40217.6
 Chevrolet,Tahoe,2020,3.9,Electric,45444.46
 Chevrolet,Tahoe,2020,4.6,Hybrid,33955.88
 Ford,Explorer,2010,1.0,Hybrid,58975.24
@@ -2914,7 +2914,7 @@ Ford,Explorer,2012,1.0,Petrol,56680.97
 Ford,Explorer,2012,1.6,Electric,57202.13
 Ford,Explorer,2012,1.8,Electric,34938.75
 Ford,Explorer,2012,2.1,Hybrid,26368.86
-Ford,Explorer,2012,2.4,Petrol,56636.020000000004
+Ford,Explorer,2012,2.4,Petrol,56636.02
 Ford,Explorer,2012,3.0,Petrol,54019.98
 Ford,Explorer,2012,3.4,Diesel,72024.17
 Ford,Explorer,2012,3.4,Electric,66623.17
@@ -3011,7 +3011,7 @@ Ford,Explorer,2019,1.5,Hybrid,65793.02
 Ford,Explorer,2019,1.6,Diesel,69269.64
 Ford,Explorer,2019,1.7,Diesel,67660.16
 Ford,Explorer,2019,1.9,Electric,78465.33
-Ford,Explorer,2019,2.1,Petrol,39149.915
+Ford,Explorer,2019,2.1,Petrol,39149.92
 Ford,Explorer,2019,2.2,Hybrid,55339.58
 Ford,Explorer,2019,2.6,Hybrid,45065.5
 Ford,Explorer,2019,2.7,Diesel,34512.98
@@ -3123,7 +3123,7 @@ Ford,F-150,2015,1.2,Electric,49117.9
 Ford,F-150,2015,1.4,Petrol,74928.63
 Ford,F-150,2015,1.5,Petrol,27954.16
 Ford,F-150,2015,1.9,Hybrid,34284.12
-Ford,F-150,2015,2.3,Hybrid,43785.225
+Ford,F-150,2015,2.3,Hybrid,43785.22
 Ford,F-150,2015,2.4,Electric,69167.8
 Ford,F-150,2015,2.5,Diesel,77870.2
 Ford,F-150,2015,2.6,Electric,25282.32
@@ -3207,7 +3207,7 @@ Ford,F-150,2019,4.5,Electric,37263.72
 Ford,F-150,2019,4.7,Petrol,15512.48
 Ford,F-150,2019,4.9,Hybrid,22808.64
 Ford,F-150,2020,1.4,Diesel,48814.12
-Ford,F-150,2020,1.5,Electric,40159.035
+Ford,F-150,2020,1.5,Electric,40159.04
 Ford,F-150,2020,1.5,Petrol,25644.18
 Ford,F-150,2020,1.7,Diesel,34848.12
 Ford,F-150,2020,1.8,Diesel,29809.69
@@ -3216,7 +3216,7 @@ Ford,F-150,2020,1.8,Petrol,24305.27
 Ford,F-150,2020,2.0,Electric,19298.69
 Ford,F-150,2020,2.1,Diesel,41091.69
 Ford,F-150,2020,2.2,Diesel,27963.11
-Ford,F-150,2020,2.4,Diesel,49075.815
+Ford,F-150,2020,2.4,Diesel,49075.82
 Ford,F-150,2020,2.6,Electric,55064.72
 Ford,F-150,2020,3.3,Diesel,36952.02
 Ford,F-150,2020,3.4,Hybrid,34194.52
@@ -3249,7 +3249,7 @@ Ford,Fiesta,2011,1.2,Petrol,16898.33
 Ford,Fiesta,2011,1.8,Hybrid,65265.98
 Ford,Fiesta,2011,2.0,Electric,55208.64
 Ford,Fiesta,2011,2.2,Hybrid,32951.31
-Ford,Fiesta,2011,2.2,Petrol,38864.265
+Ford,Fiesta,2011,2.2,Petrol,38864.26
 Ford,Fiesta,2011,2.4,Petrol,50831.53
 Ford,Fiesta,2011,2.6,Diesel,59406.71
 Ford,Fiesta,2011,3.0,Diesel,38805.28
@@ -3364,7 +3364,7 @@ Ford,Fiesta,2017,3.1,Hybrid,40018.25
 Ford,Fiesta,2017,3.5,Petrol,22527.84
 Ford,Fiesta,2017,3.8,Petrol,60833.9
 Ford,Fiesta,2017,3.9,Petrol,34311.62
-Ford,Fiesta,2017,4.0,Electric,55153.130000000005
+Ford,Fiesta,2017,4.0,Electric,55153.13
 Ford,Fiesta,2017,4.0,Petrol,49043.95
 Ford,Fiesta,2017,4.1,Petrol,23679.67
 Ford,Fiesta,2017,4.6,Diesel,71469.93
@@ -3380,7 +3380,7 @@ Ford,Fiesta,2018,3.8,Diesel,76912.21
 Ford,Fiesta,2018,3.8,Electric,54929.49
 Ford,Fiesta,2018,3.8,Hybrid,69264.15
 Ford,Fiesta,2018,3.9,Hybrid,53838.17
-Ford,Fiesta,2018,3.9,Petrol,41678.265
+Ford,Fiesta,2018,3.9,Petrol,41678.26
 Ford,Fiesta,2018,4.1,Petrol,49137.8
 Ford,Fiesta,2018,4.4,Hybrid,27259.45
 Ford,Fiesta,2018,4.7,Diesel,66652.9
@@ -3389,7 +3389,7 @@ Ford,Fiesta,2019,1.2,Diesel,58043.75
 Ford,Fiesta,2019,1.3,Electric,24070.0
 Ford,Fiesta,2019,1.6,Electric,19730.9
 Ford,Fiesta,2019,1.8,Hybrid,23660.19
-Ford,Fiesta,2019,2.3,Petrol,53058.795
+Ford,Fiesta,2019,2.3,Petrol,53058.8
 Ford,Fiesta,2019,2.4,Electric,30143.28
 Ford,Fiesta,2019,2.4,Petrol,55728.88
 Ford,Fiesta,2019,3.2,Hybrid,69684.85
@@ -3409,7 +3409,7 @@ Ford,Fiesta,2019,4.7,Petrol,55226.61
 Ford,Fiesta,2019,4.8,Diesel,28797.36
 Ford,Fiesta,2020,1.0,Diesel,31383.3
 Ford,Fiesta,2020,1.3,Electric,48158.71
-Ford,Fiesta,2020,1.3,Hybrid,60440.615
+Ford,Fiesta,2020,1.3,Hybrid,60440.62
 Ford,Fiesta,2020,1.4,Diesel,57678.89
 Ford,Fiesta,2020,1.4,Petrol,59974.71
 Ford,Fiesta,2020,1.6,Hybrid,53443.07
@@ -3420,7 +3420,7 @@ Ford,Fiesta,2020,2.9,Petrol,76914.56
 Ford,Fiesta,2020,3.2,Hybrid,39229.61
 Ford,Fiesta,2020,3.6,Petrol,37631.31
 Ford,Fiesta,2020,3.7,Electric,23807.93
-Ford,Fiesta,2020,3.7,Hybrid,35431.825
+Ford,Fiesta,2020,3.7,Hybrid,35431.82
 Ford,Fiesta,2020,4.4,Hybrid,29992.21
 Ford,Fiesta,2020,4.8,Diesel,24809.5
 Ford,Focus,2010,1.1,Electric,35068.46
@@ -3445,8 +3445,8 @@ Ford,Focus,2010,4.1,Hybrid,75865.96
 Ford,Focus,2010,4.2,Hybrid,52003.25
 Ford,Focus,2010,4.2,Petrol,29595.23
 Ford,Focus,2010,4.5,Diesel,34442.4
-Ford,Focus,2010,4.5,Electric,58909.735
-Ford,Focus,2010,4.7,Petrol,49717.979999999996
+Ford,Focus,2010,4.5,Electric,58909.74
+Ford,Focus,2010,4.7,Petrol,49717.98
 Ford,Focus,2010,4.8,Electric,34158.38
 Ford,Focus,2011,1.4,Diesel,36488.1
 Ford,Focus,2011,1.4,Electric,23619.11
@@ -3468,7 +3468,7 @@ Ford,Focus,2012,1.4,Hybrid,70107.47
 Ford,Focus,2012,1.6,Electric,35049.71
 Ford,Focus,2012,2.0,Diesel,62133.02
 Ford,Focus,2012,2.1,Diesel,70346.68
-Ford,Focus,2012,2.1,Hybrid,60253.270000000004
+Ford,Focus,2012,2.1,Hybrid,60253.27
 Ford,Focus,2012,2.4,Electric,33704.56
 Ford,Focus,2012,2.7,Petrol,47841.31
 Ford,Focus,2012,3.0,Diesel,18725.78
@@ -3519,7 +3519,7 @@ Ford,Focus,2015,1.8,Diesel,73479.24
 Ford,Focus,2015,1.9,Electric,72791.62
 Ford,Focus,2015,1.9,Hybrid,36572.44
 Ford,Focus,2015,2.0,Electric,63961.32
-Ford,Focus,2015,2.2,Hybrid,41757.035
+Ford,Focus,2015,2.2,Hybrid,41757.04
 Ford,Focus,2015,2.3,Electric,58008.09
 Ford,Focus,2015,2.5,Diesel,76148.87
 Ford,Focus,2015,2.5,Petrol,20957.81
@@ -3593,9 +3593,9 @@ Ford,Focus,2019,1.0,Diesel,35710.11
 Ford,Focus,2019,1.1,Hybrid,34180.8
 Ford,Focus,2019,1.2,Hybrid,68705.84
 Ford,Focus,2019,1.4,Electric,43483.82
-Ford,Focus,2019,1.4,Petrol,49581.729999999996
+Ford,Focus,2019,1.4,Petrol,49581.73
 Ford,Focus,2019,1.5,Petrol,18576.77
-Ford,Focus,2019,1.9,Electric,41560.905
+Ford,Focus,2019,1.9,Electric,41560.9
 Ford,Focus,2019,2.5,Diesel,33683.08
 Ford,Focus,2019,2.9,Electric,15477.8
 Ford,Focus,2019,3.1,Petrol,61627.68
@@ -3695,7 +3695,7 @@ Ford,Mustang,2013,2.9,Hybrid,36283.76
 Ford,Mustang,2013,3.3,Electric,76462.9
 Ford,Mustang,2013,3.3,Hybrid,49609.76
 Ford,Mustang,2013,3.4,Petrol,24871.07
-Ford,Mustang,2013,3.5,Diesel,52801.625
+Ford,Mustang,2013,3.5,Diesel,52801.62
 Ford,Mustang,2013,4.3,Diesel,41956.36
 Ford,Mustang,2013,4.4,Hybrid,15620.93
 Ford,Mustang,2013,4.8,Petrol,30535.23
@@ -3710,7 +3710,7 @@ Ford,Mustang,2014,2.7,Petrol,65483.19
 Ford,Mustang,2014,2.8,Petrol,69560.01
 Ford,Mustang,2014,3.1,Hybrid,37934.74
 Ford,Mustang,2014,3.7,Petrol,62282.8
-Ford,Mustang,2014,4.4,Diesel,62662.145000000004
+Ford,Mustang,2014,4.4,Diesel,62662.14
 Ford,Mustang,2014,4.8,Diesel,63208.98
 Ford,Mustang,2014,4.9,Petrol,60604.65
 Ford,Mustang,2015,1.0,Diesel,71246.9
@@ -3721,11 +3721,11 @@ Ford,Mustang,2015,2.1,Hybrid,54145.75
 Ford,Mustang,2015,2.1,Petrol,22403.67
 Ford,Mustang,2015,2.2,Diesel,38297.23
 Ford,Mustang,2015,2.4,Diesel,18347.84
-Ford,Mustang,2015,2.7,Electric,65690.745
+Ford,Mustang,2015,2.7,Electric,65690.74
 Ford,Mustang,2015,2.7,Hybrid,65072.92
 Ford,Mustang,2015,3.0,Petrol,24006.52
 Ford,Mustang,2015,3.4,Hybrid,21589.46
-Ford,Mustang,2015,3.5,Electric,76155.79500000001
+Ford,Mustang,2015,3.5,Electric,76155.8
 Ford,Mustang,2015,3.7,Hybrid,21726.1
 Ford,Mustang,2015,4.2,Diesel,33662.78
 Ford,Mustang,2015,4.3,Petrol,32997.25
@@ -3774,7 +3774,7 @@ Ford,Mustang,2018,3.4,Diesel,60684.1
 Ford,Mustang,2018,3.5,Petrol,74142.83
 Ford,Mustang,2018,3.6,Electric,53286.49
 Ford,Mustang,2018,3.9,Electric,39896.44
-Ford,Mustang,2018,4.1,Hybrid,45142.465
+Ford,Mustang,2018,4.1,Hybrid,45142.46
 Ford,Mustang,2018,4.5,Electric,24442.78
 Ford,Mustang,2018,4.6,Diesel,26887.88
 Ford,Mustang,2018,4.9,Hybrid,26873.48
@@ -3784,11 +3784,11 @@ Ford,Mustang,2019,1.1,Electric,19859.19
 Ford,Mustang,2019,1.5,Electric,64657.05
 Ford,Mustang,2019,1.9,Hybrid,63990.08
 Ford,Mustang,2019,2.1,Diesel,23865.5
-Ford,Mustang,2019,2.1,Electric,37792.515
+Ford,Mustang,2019,2.1,Electric,37792.52
 Ford,Mustang,2019,2.2,Hybrid,69416.85
 Ford,Mustang,2019,2.7,Hybrid,39313.36
 Ford,Mustang,2019,3.1,Electric,46336.11
-Ford,Mustang,2019,3.2,Diesel,39441.745
+Ford,Mustang,2019,3.2,Diesel,39441.75
 Ford,Mustang,2019,3.4,Diesel,43222.62
 Ford,Mustang,2019,3.4,Hybrid,22190.58
 Ford,Mustang,2019,4.0,Petrol,47152.02
@@ -3802,7 +3802,7 @@ Ford,Mustang,2020,2.2,Hybrid,50470.43
 Ford,Mustang,2020,2.2,Petrol,76948.7
 Ford,Mustang,2020,2.5,Electric,54993.7
 Ford,Mustang,2020,2.7,Electric,32054.36
-Ford,Mustang,2020,3.1,Petrol,28898.215
+Ford,Mustang,2020,3.1,Petrol,28898.22
 Ford,Mustang,2020,3.6,Electric,22589.93
 Ford,Mustang,2020,4.5,Electric,52701.5
 Ford,Mustang,2020,4.9,Electric,22659.24
@@ -3914,7 +3914,7 @@ Honda,Accord,2016,3.6,Diesel,38711.01
 Honda,Accord,2016,4.1,Electric,44684.13
 Honda,Accord,2016,4.2,Petrol,40143.64
 Honda,Accord,2016,4.3,Petrol,61082.58
-Honda,Accord,2016,4.5,Electric,71619.875
+Honda,Accord,2016,4.5,Electric,71619.88
 Honda,Accord,2016,4.9,Electric,29264.6
 Honda,Accord,2017,1.1,Electric,35909.09
 Honda,Accord,2017,1.2,Diesel,16288.93
@@ -3972,12 +3972,12 @@ Honda,Accord,2020,1.0,Electric,54763.21
 Honda,Accord,2020,1.2,Petrol,58834.5
 Honda,Accord,2020,1.4,Diesel,67516.46
 Honda,Accord,2020,1.9,Petrol,64305.21
-Honda,Accord,2020,2.1,Diesel,76515.755
+Honda,Accord,2020,2.1,Diesel,76515.76
 Honda,Accord,2020,2.1,Electric,51871.68
 Honda,Accord,2020,2.2,Diesel,52967.84
 Honda,Accord,2020,2.4,Petrol,32291.17
 Honda,Accord,2020,2.7,Petrol,30464.85
-Honda,Accord,2020,2.9,Diesel,55827.575
+Honda,Accord,2020,2.9,Diesel,55827.58
 Honda,Accord,2020,2.9,Petrol,69053.71
 Honda,Accord,2020,3.2,Hybrid,39058.73
 Honda,Accord,2020,3.3,Diesel,32379.3
@@ -4010,7 +4010,7 @@ Honda,CR-V,2010,4.2,Diesel,43747.35
 Honda,CR-V,2010,4.2,Hybrid,63953.44
 Honda,CR-V,2010,4.7,Hybrid,35381.26
 Honda,CR-V,2011,1.1,Electric,30702.05
-Honda,CR-V,2011,1.5,Hybrid,43999.915
+Honda,CR-V,2011,1.5,Hybrid,43999.92
 Honda,CR-V,2011,1.5,Petrol,59744.5
 Honda,CR-V,2011,1.6,Electric,33907.64
 Honda,CR-V,2011,2.1,Diesel,17320.0
@@ -4024,7 +4024,7 @@ Honda,CR-V,2011,3.9,Diesel,47286.09
 Honda,CR-V,2011,4.0,Petrol,52206.71
 Honda,CR-V,2011,4.4,Petrol,54293.27
 Honda,CR-V,2011,4.8,Diesel,71393.68
-Honda,CR-V,2012,1.9,Hybrid,58558.44500000001
+Honda,CR-V,2012,1.9,Hybrid,58558.45
 Honda,CR-V,2012,2.0,Petrol,32728.05
 Honda,CR-V,2012,2.1,Petrol,55199.29
 Honda,CR-V,2012,2.8,Diesel,66800.73
@@ -4076,7 +4076,7 @@ Honda,CR-V,2015,2.1,Hybrid,62328.85
 Honda,CR-V,2015,2.6,Hybrid,41824.35
 Honda,CR-V,2015,2.6,Petrol,47142.84
 Honda,CR-V,2015,2.8,Hybrid,17248.09
-Honda,CR-V,2015,3.2,Electric,53961.965
+Honda,CR-V,2015,3.2,Electric,53961.96
 Honda,CR-V,2015,3.4,Hybrid,66035.47
 Honda,CR-V,2015,3.6,Diesel,56300.34
 Honda,CR-V,2015,3.8,Petrol,22632.2
@@ -4116,7 +4116,7 @@ Honda,CR-V,2017,3.1,Diesel,29833.92
 Honda,CR-V,2017,3.2,Electric,26375.54
 Honda,CR-V,2017,3.4,Diesel,69432.45
 Honda,CR-V,2017,3.5,Hybrid,63287.73
-Honda,CR-V,2017,3.6,Diesel,42804.729999999996
+Honda,CR-V,2017,3.6,Diesel,42804.73
 Honda,CR-V,2017,3.7,Hybrid,56915.69
 Honda,CR-V,2017,3.9,Hybrid,41379.04
 Honda,CR-V,2017,3.9,Petrol,16802.8
@@ -4157,7 +4157,7 @@ Honda,CR-V,2019,2.9,Hybrid,22634.84
 Honda,CR-V,2019,3.0,Hybrid,75151.19
 Honda,CR-V,2019,3.6,Petrol,68315.22
 Honda,CR-V,2019,4.0,Hybrid,58711.13
-Honda,CR-V,2019,4.2,Diesel,38828.955
+Honda,CR-V,2019,4.2,Diesel,38828.96
 Honda,CR-V,2019,4.2,Hybrid,44775.28
 Honda,CR-V,2019,4.4,Hybrid,32363.17
 Honda,CR-V,2019,4.8,Diesel,52648.47
@@ -4165,7 +4165,7 @@ Honda,CR-V,2019,4.8,Electric,43134.19
 Honda,CR-V,2020,1.0,Diesel,66266.37
 Honda,CR-V,2020,2.1,Diesel,68695.45
 Honda,CR-V,2020,2.1,Hybrid,76234.78
-Honda,CR-V,2020,2.3,Electric,38457.195
+Honda,CR-V,2020,2.3,Electric,38457.2
 Honda,CR-V,2020,2.6,Petrol,74893.43
 Honda,CR-V,2020,2.7,Petrol,16141.97
 Honda,CR-V,2020,2.9,Diesel,32859.13
@@ -4189,7 +4189,7 @@ Honda,Civic,2010,3.8,Electric,36660.31
 Honda,Civic,2010,4.0,Petrol,37146.85
 Honda,Civic,2010,4.1,Diesel,63331.89
 Honda,Civic,2010,4.3,Petrol,24761.9
-Honda,Civic,2010,4.4,Hybrid,65908.91500000001
+Honda,Civic,2010,4.4,Hybrid,65908.92
 Honda,Civic,2010,4.4,Petrol,59260.94
 Honda,Civic,2010,4.5,Electric,63306.36
 Honda,Civic,2010,4.5,Hybrid,69759.23
@@ -4227,7 +4227,7 @@ Honda,Civic,2012,2.6,Hybrid,46896.05
 Honda,Civic,2012,2.8,Hybrid,73040.71
 Honda,Civic,2012,3.1,Diesel,34277.32
 Honda,Civic,2012,3.2,Electric,36665.04
-Honda,Civic,2012,3.7,Diesel,66398.065
+Honda,Civic,2012,3.7,Diesel,66398.06
 Honda,Civic,2012,3.8,Petrol,74321.08
 Honda,Civic,2012,3.9,Diesel,59443.4
 Honda,Civic,2012,4.0,Petrol,51645.5
@@ -4246,7 +4246,7 @@ Honda,Civic,2013,4.1,Hybrid,57275.19
 Honda,Civic,2013,4.4,Electric,42969.78
 Honda,Civic,2013,4.5,Petrol,60298.89
 Honda,Civic,2013,4.6,Diesel,15546.19
-Honda,Civic,2013,4.6,Electric,59358.350000000006
+Honda,Civic,2013,4.6,Electric,59358.35
 Honda,Civic,2013,5.0,Electric,52462.03
 Honda,Civic,2014,1.1,Diesel,74634.57
 Honda,Civic,2014,1.4,Hybrid,29520.88
@@ -4312,7 +4312,7 @@ Honda,Civic,2017,2.3,Petrol,31878.71
 Honda,Civic,2017,2.6,Hybrid,16521.8
 Honda,Civic,2017,3.0,Petrol,20880.11
 Honda,Civic,2017,3.1,Petrol,76163.79
-Honda,Civic,2017,3.3,Electric,64562.275
+Honda,Civic,2017,3.3,Electric,64562.28
 Honda,Civic,2017,3.8,Electric,20040.32
 Honda,Civic,2017,3.9,Hybrid,46077.66
 Honda,Civic,2017,4.2,Petrol,44985.19
@@ -4359,7 +4359,7 @@ Honda,Civic,2020,1.6,Hybrid,76295.88
 Honda,Civic,2020,1.7,Electric,67565.34
 Honda,Civic,2020,2.1,Electric,53166.18
 Honda,Civic,2020,2.1,Petrol,67709.81
-Honda,Civic,2020,2.4,Electric,56071.69500000001
+Honda,Civic,2020,2.4,Electric,56071.7
 Honda,Civic,2020,2.6,Petrol,43259.02
 Honda,Civic,2020,2.7,Diesel,40113.28
 Honda,Civic,2020,2.9,Hybrid,25634.51
@@ -4397,7 +4397,7 @@ Honda,Fit,2011,1.4,Diesel,52451.77
 Honda,Fit,2011,1.7,Electric,39886.71
 Honda,Fit,2011,1.8,Diesel,68722.05
 Honda,Fit,2011,2.0,Hybrid,29352.64
-Honda,Fit,2011,2.5,Diesel,53541.075
+Honda,Fit,2011,2.5,Diesel,53541.08
 Honda,Fit,2011,2.5,Hybrid,33184.22
 Honda,Fit,2011,3.8,Diesel,41321.75
 Honda,Fit,2011,3.9,Electric,47284.81
@@ -4442,7 +4442,7 @@ Honda,Fit,2014,2.7,Hybrid,38060.62
 Honda,Fit,2014,2.8,Hybrid,60635.24
 Honda,Fit,2014,3.0,Electric,34116.81
 Honda,Fit,2014,3.3,Hybrid,38451.17
-Honda,Fit,2014,3.4,Diesel,70105.29000000001
+Honda,Fit,2014,3.4,Diesel,70105.29
 Honda,Fit,2014,3.4,Petrol,72044.07
 Honda,Fit,2014,3.6,Hybrid,62380.38
 Honda,Fit,2014,3.8,Diesel,44519.5
@@ -4459,7 +4459,7 @@ Honda,Fit,2015,2.1,Hybrid,32072.7
 Honda,Fit,2015,2.3,Diesel,51648.77
 Honda,Fit,2015,2.3,Hybrid,27055.67
 Honda,Fit,2015,2.6,Petrol,70206.17
-Honda,Fit,2015,2.7,Diesel,42471.884999999995
+Honda,Fit,2015,2.7,Diesel,42471.88
 Honda,Fit,2015,2.9,Hybrid,29563.58
 Honda,Fit,2015,2.9,Petrol,43092.53
 Honda,Fit,2015,3.2,Petrol,57152.43
@@ -4468,7 +4468,7 @@ Honda,Fit,2015,4.3,Petrol,47232.2
 Honda,Fit,2015,4.5,Diesel,28986.39
 Honda,Fit,2015,4.6,Diesel,38230.95
 Honda,Fit,2015,4.7,Hybrid,26919.29
-Honda,Fit,2015,4.9,Hybrid,63780.520000000004
+Honda,Fit,2015,4.9,Hybrid,63780.52
 Honda,Fit,2016,1.1,Electric,40434.84
 Honda,Fit,2016,1.1,Hybrid,16235.17
 Honda,Fit,2016,1.1,Petrol,44209.17
@@ -4539,8 +4539,8 @@ Honda,Fit,2019,2.3,Electric,33188.8
 Honda,Fit,2019,2.4,Hybrid,63949.31
 Honda,Fit,2019,3.0,Hybrid,21282.42
 Honda,Fit,2019,3.1,Hybrid,60158.62
-Honda,Fit,2019,3.3,Diesel,66439.80500000001
-Honda,Fit,2019,3.3,Electric,58558.075
+Honda,Fit,2019,3.3,Diesel,66439.81
+Honda,Fit,2019,3.3,Electric,58558.08
 Honda,Fit,2019,3.4,Electric,44902.13
 Honda,Fit,2019,3.7,Hybrid,15941.58
 Honda,Fit,2019,4.4,Hybrid,24699.79
@@ -4560,7 +4560,7 @@ Honda,Fit,2020,3.0,Diesel,26647.68
 Honda,Fit,2020,3.1,Hybrid,25264.97
 Honda,Fit,2020,3.6,Petrol,69699.7
 Honda,Fit,2020,3.7,Diesel,66583.59
-Honda,Fit,2020,3.8,Hybrid,34693.135
+Honda,Fit,2020,3.8,Hybrid,34693.14
 Honda,Fit,2020,3.9,Electric,36819.09
 Honda,Fit,2020,4.0,Petrol,45274.58
 Honda,Fit,2020,4.1,Petrol,23957.51
@@ -4576,9 +4576,9 @@ Honda,Pilot,2010,1.6,Hybrid,46513.0
 Honda,Pilot,2010,1.8,Diesel,60533.46
 Honda,Pilot,2010,1.8,Petrol,55160.06
 Honda,Pilot,2010,2.1,Diesel,74766.33
-Honda,Pilot,2010,2.2,Petrol,33482.155
+Honda,Pilot,2010,2.2,Petrol,33482.16
 Honda,Pilot,2010,2.6,Petrol,24829.35
-Honda,Pilot,2010,2.8,Petrol,45694.525
+Honda,Pilot,2010,2.8,Petrol,45694.52
 Honda,Pilot,2010,3.0,Electric,45234.36
 Honda,Pilot,2010,3.5,Hybrid,75525.11
 Honda,Pilot,2010,3.9,Hybrid,19467.76
@@ -4633,7 +4633,7 @@ Honda,Pilot,2013,4.6,Diesel,57850.43
 Honda,Pilot,2013,4.7,Electric,53263.89
 Honda,Pilot,2013,4.8,Petrol,15787.21
 Honda,Pilot,2013,4.9,Petrol,44113.67
-Honda,Pilot,2014,1.2,Hybrid,66172.445
+Honda,Pilot,2014,1.2,Hybrid,66172.45
 Honda,Pilot,2014,1.3,Diesel,38228.76
 Honda,Pilot,2014,1.5,Hybrid,19435.84
 Honda,Pilot,2014,1.6,Hybrid,66865.79
@@ -4672,7 +4672,7 @@ Honda,Pilot,2015,4.6,Electric,18423.66
 Honda,Pilot,2015,4.8,Electric,46685.8
 Honda,Pilot,2015,4.9,Hybrid,23557.43
 Honda,Pilot,2016,1.1,Hybrid,36849.86
-Honda,Pilot,2016,1.2,Electric,31283.864999999998
+Honda,Pilot,2016,1.2,Electric,31283.86
 Honda,Pilot,2016,1.5,Diesel,38476.68
 Honda,Pilot,2016,2.0,Petrol,38459.18
 Honda,Pilot,2016,2.1,Petrol,33858.41
@@ -4690,7 +4690,7 @@ Honda,Pilot,2016,4.6,Hybrid,74108.21
 Honda,Pilot,2017,1.1,Petrol,20010.47
 Honda,Pilot,2017,1.4,Electric,64829.01
 Honda,Pilot,2017,1.6,Petrol,36191.79
-Honda,Pilot,2017,1.9,Electric,61740.485
+Honda,Pilot,2017,1.9,Electric,61740.48
 Honda,Pilot,2017,2.0,Diesel,56924.5
 Honda,Pilot,2017,2.2,Petrol,32125.81
 Honda,Pilot,2017,2.3,Electric,24570.23
@@ -4711,7 +4711,7 @@ Honda,Pilot,2018,1.8,Diesel,20640.8
 Honda,Pilot,2018,1.9,Electric,36717.97
 Honda,Pilot,2018,2.1,Petrol,25800.54
 Honda,Pilot,2018,2.2,Hybrid,42895.48
-Honda,Pilot,2018,3.0,Hybrid,60730.78999999999
+Honda,Pilot,2018,3.0,Hybrid,60730.79
 Honda,Pilot,2018,3.3,Hybrid,48995.47
 Honda,Pilot,2018,3.6,Electric,30138.93
 Honda,Pilot,2018,3.9,Electric,74717.95
@@ -4727,7 +4727,7 @@ Honda,Pilot,2019,1.9,Electric,73496.76
 Honda,Pilot,2019,2.2,Petrol,42250.76
 Honda,Pilot,2019,2.8,Diesel,71571.94
 Honda,Pilot,2019,2.8,Electric,68390.58
-Honda,Pilot,2019,2.9,Hybrid,64595.049999999996
+Honda,Pilot,2019,2.9,Hybrid,64595.05
 Honda,Pilot,2019,3.0,Electric,76920.67
 Honda,Pilot,2019,3.3,Diesel,20171.45
 Honda,Pilot,2019,3.4,Electric,41509.75
@@ -4742,7 +4742,7 @@ Honda,Pilot,2020,1.1,Petrol,73673.74
 Honda,Pilot,2020,1.2,Hybrid,50375.25
 Honda,Pilot,2020,1.3,Petrol,65399.5
 Honda,Pilot,2020,1.4,Petrol,64294.87
-Honda,Pilot,2020,1.7,Diesel,32301.305
+Honda,Pilot,2020,1.7,Diesel,32301.3
 Honda,Pilot,2020,2.0,Electric,54531.9
 Honda,Pilot,2020,2.5,Electric,64519.5
 Honda,Pilot,2020,2.9,Hybrid,48551.0
@@ -4751,7 +4751,7 @@ Honda,Pilot,2020,3.5,Hybrid,77905.83
 Honda,Pilot,2020,3.5,Petrol,40262.21
 Honda,Pilot,2020,3.7,Electric,76180.19
 Honda,Pilot,2020,3.9,Diesel,27950.09
-Honda,Pilot,2020,4.2,Hybrid,51826.315
+Honda,Pilot,2020,4.2,Hybrid,51826.32
 Honda,Pilot,2020,4.2,Petrol,59330.43
 Hyundai,Elantra,2010,1.9,Hybrid,62484.05
 Hyundai,Elantra,2010,2.3,Hybrid,58108.27
@@ -4837,7 +4837,7 @@ Hyundai,Elantra,2015,1.2,Hybrid,45807.44
 Hyundai,Elantra,2015,1.6,Petrol,37796.11
 Hyundai,Elantra,2015,1.7,Petrol,62584.66
 Hyundai,Elantra,2015,1.8,Electric,22228.93
-Hyundai,Elantra,2015,2.1,Diesel,47230.175
+Hyundai,Elantra,2015,2.1,Diesel,47230.18
 Hyundai,Elantra,2015,2.4,Petrol,76183.44
 Hyundai,Elantra,2015,2.5,Diesel,63356.25
 Hyundai,Elantra,2015,2.6,Electric,22378.13
@@ -4929,8 +4929,8 @@ Hyundai,Elantra,2020,1.5,Hybrid,76518.71
 Hyundai,Elantra,2020,1.7,Hybrid,39812.34
 Hyundai,Elantra,2020,1.7,Petrol,47384.15
 Hyundai,Elantra,2020,2.3,Hybrid,76198.34
-Hyundai,Elantra,2020,2.4,Diesel,59856.17999999999
-Hyundai,Elantra,2020,2.6,Petrol,47825.495
+Hyundai,Elantra,2020,2.4,Diesel,59856.18
+Hyundai,Elantra,2020,2.6,Petrol,47825.5
 Hyundai,Elantra,2020,2.8,Petrol,73070.21
 Hyundai,Elantra,2020,2.9,Diesel,59508.41
 Hyundai,Elantra,2020,3.2,Diesel,36835.6
@@ -4964,13 +4964,13 @@ Hyundai,Kona,2011,2.2,Petrol,74196.89
 Hyundai,Kona,2011,2.8,Hybrid,39339.83
 Hyundai,Kona,2011,2.9,Hybrid,16785.0
 Hyundai,Kona,2011,3.0,Hybrid,22278.53
-Hyundai,Kona,2011,3.0,Petrol,50159.490000000005
+Hyundai,Kona,2011,3.0,Petrol,50159.49
 Hyundai,Kona,2011,3.1,Hybrid,56351.87
 Hyundai,Kona,2011,3.3,Hybrid,58761.52
-Hyundai,Kona,2011,3.4,Diesel,50435.729999999996
+Hyundai,Kona,2011,3.4,Diesel,50435.73
 Hyundai,Kona,2011,3.6,Petrol,43381.84
 Hyundai,Kona,2011,3.8,Hybrid,48019.12
-Hyundai,Kona,2011,4.1,Diesel,31810.605
+Hyundai,Kona,2011,4.1,Diesel,31810.6
 Hyundai,Kona,2011,4.2,Petrol,21505.75
 Hyundai,Kona,2011,4.6,Electric,19073.06
 Hyundai,Kona,2011,4.8,Petrol,26571.56
@@ -5019,7 +5019,7 @@ Hyundai,Kona,2014,1.3,Hybrid,44838.79
 Hyundai,Kona,2014,1.7,Petrol,40739.25
 Hyundai,Kona,2014,2.1,Diesel,49991.71
 Hyundai,Kona,2014,2.3,Diesel,61527.06
-Hyundai,Kona,2014,2.7,Hybrid,16961.335
+Hyundai,Kona,2014,2.7,Hybrid,16961.34
 Hyundai,Kona,2014,2.8,Diesel,71324.53
 Hyundai,Kona,2014,2.8,Petrol,77282.82
 Hyundai,Kona,2014,3.1,Electric,75896.94
@@ -5035,7 +5035,7 @@ Hyundai,Kona,2014,4.9,Petrol,77570.61
 Hyundai,Kona,2015,1.0,Hybrid,37363.56
 Hyundai,Kona,2015,1.1,Electric,41316.52
 Hyundai,Kona,2015,1.4,Electric,55485.87
-Hyundai,Kona,2015,1.5,Petrol,28495.354999999996
+Hyundai,Kona,2015,1.5,Petrol,28495.35
 Hyundai,Kona,2015,1.7,Electric,30370.75
 Hyundai,Kona,2015,1.8,Petrol,58205.73
 Hyundai,Kona,2015,1.9,Petrol,48732.09
@@ -5043,7 +5043,7 @@ Hyundai,Kona,2015,2.2,Hybrid,16980.98
 Hyundai,Kona,2015,2.5,Electric,38261.39
 Hyundai,Kona,2015,2.6,Diesel,64672.49
 Hyundai,Kona,2015,2.6,Petrol,17595.95
-Hyundai,Kona,2015,2.7,Electric,63087.16499999999
+Hyundai,Kona,2015,2.7,Electric,63087.16
 Hyundai,Kona,2015,2.7,Hybrid,46750.2
 Hyundai,Kona,2015,3.5,Petrol,38104.33
 Hyundai,Kona,2015,3.7,Hybrid,33650.74
@@ -5064,7 +5064,7 @@ Hyundai,Kona,2016,4.0,Petrol,36704.62
 Hyundai,Kona,2016,4.2,Diesel,16048.82
 Hyundai,Kona,2016,4.3,Electric,64421.48
 Hyundai,Kona,2016,4.3,Petrol,52070.68
-Hyundai,Kona,2016,4.5,Electric,50187.66499999999
+Hyundai,Kona,2016,4.5,Electric,50187.66
 Hyundai,Kona,2016,4.5,Petrol,74549.75
 Hyundai,Kona,2016,4.6,Hybrid,53230.12
 Hyundai,Kona,2017,1.4,Hybrid,45100.79
@@ -5101,7 +5101,7 @@ Hyundai,Kona,2018,2.7,Diesel,57383.1
 Hyundai,Kona,2018,2.7,Electric,15141.9
 Hyundai,Kona,2018,2.8,Diesel,28389.34
 Hyundai,Kona,2018,3.0,Diesel,56896.93
-Hyundai,Kona,2018,3.2,Electric,47015.994999999995
+Hyundai,Kona,2018,3.2,Electric,47016.0
 Hyundai,Kona,2018,3.2,Hybrid,58788.46
 Hyundai,Kona,2018,3.4,Petrol,78972.09
 Hyundai,Kona,2018,3.5,Petrol,79335.1
@@ -5130,7 +5130,7 @@ Hyundai,Kona,2019,4.5,Hybrid,55399.74
 Hyundai,Kona,2020,1.1,Electric,29477.18
 Hyundai,Kona,2020,1.3,Diesel,25826.42
 Hyundai,Kona,2020,1.5,Diesel,40324.7
-Hyundai,Kona,2020,1.5,Petrol,37839.655
+Hyundai,Kona,2020,1.5,Petrol,37839.66
 Hyundai,Kona,2020,1.9,Electric,63052.83
 Hyundai,Kona,2020,3.0,Hybrid,53064.84
 Hyundai,Kona,2020,3.1,Diesel,65815.06
@@ -5142,16 +5142,16 @@ Hyundai,Kona,2020,4.0,Diesel,46140.23
 Hyundai,Kona,2020,4.1,Electric,27424.4
 Hyundai,Kona,2020,4.4,Electric,58009.46
 Hyundai,Kona,2020,4.8,Electric,16077.79
-Hyundai,Kona,2020,4.8,Petrol,49824.165
-Hyundai,Santa Fe,2010,1.2,Diesel,40323.325
+Hyundai,Kona,2020,4.8,Petrol,49824.16
+Hyundai,Santa Fe,2010,1.2,Diesel,40323.32
 Hyundai,Santa Fe,2010,1.3,Diesel,28460.75
-Hyundai,Santa Fe,2010,1.5,Electric,44582.78333333333
+Hyundai,Santa Fe,2010,1.5,Electric,44582.78
 Hyundai,Santa Fe,2010,1.6,Electric,38298.04
 Hyundai,Santa Fe,2010,1.7,Electric,73202.54
 Hyundai,Santa Fe,2010,1.9,Petrol,26131.08
 Hyundai,Santa Fe,2010,2.2,Petrol,28640.58
 Hyundai,Santa Fe,2010,2.3,Electric,23327.77
-Hyundai,Santa Fe,2010,2.5,Diesel,53345.585
+Hyundai,Santa Fe,2010,2.5,Diesel,53345.58
 Hyundai,Santa Fe,2010,3.0,Hybrid,35023.75
 Hyundai,Santa Fe,2010,3.2,Hybrid,17456.32
 Hyundai,Santa Fe,2010,3.3,Petrol,72727.15
@@ -5226,7 +5226,7 @@ Hyundai,Santa Fe,2015,1.7,Electric,47976.29
 Hyundai,Santa Fe,2015,1.9,Electric,52042.65
 Hyundai,Santa Fe,2015,1.9,Hybrid,60034.2
 Hyundai,Santa Fe,2015,2.6,Electric,20510.04
-Hyundai,Santa Fe,2015,2.6,Hybrid,56943.755000000005
+Hyundai,Santa Fe,2015,2.6,Hybrid,56943.76
 Hyundai,Santa Fe,2015,2.8,Electric,22755.69
 Hyundai,Santa Fe,2015,3.0,Petrol,35558.78
 Hyundai,Santa Fe,2015,3.1,Hybrid,39835.33
@@ -5237,7 +5237,7 @@ Hyundai,Santa Fe,2015,3.7,Petrol,52899.2
 Hyundai,Santa Fe,2015,3.8,Diesel,61392.69
 Hyundai,Santa Fe,2015,3.9,Diesel,69164.43
 Hyundai,Santa Fe,2015,3.9,Electric,67342.15
-Hyundai,Santa Fe,2015,4.4,Diesel,46823.915
+Hyundai,Santa Fe,2015,4.4,Diesel,46823.92
 Hyundai,Santa Fe,2015,4.5,Hybrid,68937.94
 Hyundai,Santa Fe,2015,4.8,Diesel,72525.08
 Hyundai,Santa Fe,2016,1.2,Petrol,70471.71
@@ -5254,19 +5254,19 @@ Hyundai,Santa Fe,2016,4.2,Electric,26096.71
 Hyundai,Santa Fe,2016,4.4,Electric,57702.22
 Hyundai,Santa Fe,2016,4.8,Hybrid,34768.37
 Hyundai,Santa Fe,2016,4.9,Petrol,25950.02
-Hyundai,Santa Fe,2017,1.1,Hybrid,43331.925
-Hyundai,Santa Fe,2017,1.2,Diesel,70802.955
+Hyundai,Santa Fe,2017,1.1,Hybrid,43331.92
+Hyundai,Santa Fe,2017,1.2,Diesel,70802.96
 Hyundai,Santa Fe,2017,1.4,Electric,25146.39
 Hyundai,Santa Fe,2017,1.4,Hybrid,49026.4
 Hyundai,Santa Fe,2017,1.5,Diesel,19141.38
 Hyundai,Santa Fe,2017,2.0,Diesel,41487.32
 Hyundai,Santa Fe,2017,3.1,Electric,15791.74
 Hyundai,Santa Fe,2017,3.3,Hybrid,30705.87
-Hyundai,Santa Fe,2017,3.4,Petrol,59222.875
+Hyundai,Santa Fe,2017,3.4,Petrol,59222.88
 Hyundai,Santa Fe,2017,3.9,Diesel,54893.66
 Hyundai,Santa Fe,2017,4.3,Electric,72305.1
 Hyundai,Santa Fe,2017,4.3,Petrol,44442.69
-Hyundai,Santa Fe,2017,4.6,Hybrid,25064.245
+Hyundai,Santa Fe,2017,4.6,Hybrid,25064.24
 Hyundai,Santa Fe,2018,1.9,Electric,70722.81
 Hyundai,Santa Fe,2018,2.1,Diesel,70348.39
 Hyundai,Santa Fe,2018,2.1,Petrol,68977.64
@@ -5318,7 +5318,7 @@ Hyundai,Santa Fe,2020,2.6,Hybrid,59684.87
 Hyundai,Santa Fe,2020,3.6,Diesel,32994.43
 Hyundai,Santa Fe,2020,3.7,Hybrid,45532.63
 Hyundai,Santa Fe,2020,4.1,Diesel,55252.14
-Hyundai,Santa Fe,2020,4.2,Electric,56573.884999999995
+Hyundai,Santa Fe,2020,4.2,Electric,56573.88
 Hyundai,Santa Fe,2020,4.2,Hybrid,20204.73
 Hyundai,Santa Fe,2020,4.3,Hybrid,18612.64
 Hyundai,Santa Fe,2020,4.5,Electric,37964.73
@@ -5361,7 +5361,7 @@ Hyundai,Sonata,2011,4.3,Electric,75004.22
 Hyundai,Sonata,2011,4.7,Diesel,79998.87
 Hyundai,Sonata,2012,1.0,Diesel,21763.98
 Hyundai,Sonata,2012,1.1,Diesel,43804.44
-Hyundai,Sonata,2012,1.2,Electric,32790.885
+Hyundai,Sonata,2012,1.2,Electric,32790.88
 Hyundai,Sonata,2012,1.2,Petrol,38415.42
 Hyundai,Sonata,2012,1.5,Electric,15550.84
 Hyundai,Sonata,2012,1.6,Electric,19652.19
@@ -5381,7 +5381,7 @@ Hyundai,Sonata,2012,4.4,Diesel,76003.12
 Hyundai,Sonata,2012,4.5,Electric,63301.6
 Hyundai,Sonata,2012,4.6,Hybrid,58622.67
 Hyundai,Sonata,2012,4.8,Petrol,63419.0
-Hyundai,Sonata,2012,4.9,Petrol,31973.095
+Hyundai,Sonata,2012,4.9,Petrol,31973.1
 Hyundai,Sonata,2013,1.0,Hybrid,38365.12
 Hyundai,Sonata,2013,1.2,Diesel,72659.86
 Hyundai,Sonata,2013,1.4,Diesel,49698.5
@@ -5407,7 +5407,7 @@ Hyundai,Sonata,2014,1.4,Diesel,27257.06
 Hyundai,Sonata,2014,1.7,Hybrid,57695.5
 Hyundai,Sonata,2014,1.8,Diesel,28410.23
 Hyundai,Sonata,2014,2.3,Electric,42503.46
-Hyundai,Sonata,2014,2.4,Hybrid,45285.045
+Hyundai,Sonata,2014,2.4,Hybrid,45285.04
 Hyundai,Sonata,2014,2.4,Petrol,36383.63
 Hyundai,Sonata,2014,2.5,Electric,69813.72
 Hyundai,Sonata,2014,2.6,Petrol,39433.59
@@ -5454,7 +5454,7 @@ Hyundai,Sonata,2016,4.8,Diesel,59916.59
 Hyundai,Sonata,2016,5.0,Electric,70635.14
 Hyundai,Sonata,2017,1.0,Diesel,28688.31
 Hyundai,Sonata,2017,1.9,Electric,20643.13
-Hyundai,Sonata,2017,1.9,Hybrid,40569.119999999995
+Hyundai,Sonata,2017,1.9,Hybrid,40569.12
 Hyundai,Sonata,2017,2.0,Electric,43131.53
 Hyundai,Sonata,2017,2.2,Electric,33227.11
 Hyundai,Sonata,2017,3.4,Hybrid,42529.22
@@ -5464,7 +5464,7 @@ Hyundai,Sonata,2017,3.8,Electric,78114.36
 Hyundai,Sonata,2017,4.1,Hybrid,43480.35
 Hyundai,Sonata,2017,4.8,Electric,19265.71
 Hyundai,Sonata,2017,4.8,Hybrid,25960.08
-Hyundai,Sonata,2017,4.8,Petrol,30492.125
+Hyundai,Sonata,2017,4.8,Petrol,30492.12
 Hyundai,Sonata,2018,1.2,Electric,58897.11
 Hyundai,Sonata,2018,1.5,Diesel,26403.81
 Hyundai,Sonata,2018,1.9,Electric,29688.53
@@ -5479,7 +5479,7 @@ Hyundai,Sonata,2018,3.6,Petrol,45096.36
 Hyundai,Sonata,2018,3.9,Electric,37112.56
 Hyundai,Sonata,2018,4.2,Hybrid,44351.07
 Hyundai,Sonata,2018,4.6,Electric,59558.53
-Hyundai,Sonata,2018,4.8,Hybrid,31706.725000000002
+Hyundai,Sonata,2018,4.8,Hybrid,31706.72
 Hyundai,Sonata,2019,1.3,Electric,45088.73
 Hyundai,Sonata,2019,1.6,Electric,67470.32
 Hyundai,Sonata,2019,1.6,Hybrid,25733.43
@@ -5523,7 +5523,7 @@ Hyundai,Sonata,2020,4.5,Hybrid,51645.7
 Hyundai,Sonata,2020,4.8,Diesel,44247.4
 Hyundai,Tucson,2010,1.2,Electric,70761.2
 Hyundai,Tucson,2010,1.3,Petrol,50887.05
-Hyundai,Tucson,2010,1.6,Hybrid,69522.485
+Hyundai,Tucson,2010,1.6,Hybrid,69522.48
 Hyundai,Tucson,2010,1.6,Petrol,27410.97
 Hyundai,Tucson,2010,1.7,Diesel,58434.86
 Hyundai,Tucson,2010,2.0,Electric,67045.28
@@ -5557,7 +5557,7 @@ Hyundai,Tucson,2011,4.1,Hybrid,53784.21
 Hyundai,Tucson,2011,4.4,Petrol,53672.27
 Hyundai,Tucson,2012,1.3,Petrol,65643.65
 Hyundai,Tucson,2012,1.8,Hybrid,69292.71
-Hyundai,Tucson,2012,1.9,Petrol,55448.235
+Hyundai,Tucson,2012,1.9,Petrol,55448.24
 Hyundai,Tucson,2012,2.1,Diesel,27569.06
 Hyundai,Tucson,2012,2.7,Electric,15413.4
 Hyundai,Tucson,2012,2.7,Hybrid,23923.83
@@ -5577,7 +5577,7 @@ Hyundai,Tucson,2013,2.0,Diesel,29464.23
 Hyundai,Tucson,2013,2.1,Diesel,71918.46
 Hyundai,Tucson,2013,2.3,Diesel,47331.13
 Hyundai,Tucson,2013,2.3,Electric,75805.42
-Hyundai,Tucson,2013,2.4,Diesel,37936.725
+Hyundai,Tucson,2013,2.4,Diesel,37936.72
 Hyundai,Tucson,2013,2.6,Hybrid,44491.78
 Hyundai,Tucson,2013,2.6,Petrol,15082.82
 Hyundai,Tucson,2013,3.2,Electric,39315.49
@@ -5605,7 +5605,7 @@ Hyundai,Tucson,2014,4.4,Hybrid,50906.45
 Hyundai,Tucson,2014,4.5,Petrol,54076.66
 Hyundai,Tucson,2014,4.6,Diesel,57910.05
 Hyundai,Tucson,2014,4.6,Electric,15485.18
-Hyundai,Tucson,2014,5.0,Diesel,61146.490000000005
+Hyundai,Tucson,2014,5.0,Diesel,61146.49
 Hyundai,Tucson,2014,5.0,Petrol,23608.08
 Hyundai,Tucson,2015,1.3,Electric,52456.57
 Hyundai,Tucson,2015,1.6,Electric,30713.45
@@ -5636,11 +5636,11 @@ Hyundai,Tucson,2016,3.7,Hybrid,28034.17
 Hyundai,Tucson,2016,3.9,Electric,51697.5
 Hyundai,Tucson,2016,4.2,Electric,72655.77
 Hyundai,Tucson,2016,4.7,Electric,35571.16
-Hyundai,Tucson,2016,4.9,Diesel,35227.785
+Hyundai,Tucson,2016,4.9,Diesel,35227.79
 Hyundai,Tucson,2016,4.9,Hybrid,60079.81
 Hyundai,Tucson,2017,1.4,Diesel,54036.85
 Hyundai,Tucson,2017,1.4,Electric,25403.54
-Hyundai,Tucson,2017,1.6,Petrol,62437.674999999996
+Hyundai,Tucson,2017,1.6,Petrol,62437.68
 Hyundai,Tucson,2017,1.7,Diesel,67862.96
 Hyundai,Tucson,2017,1.7,Electric,75110.35
 Hyundai,Tucson,2017,1.8,Electric,49906.28
@@ -5811,7 +5811,7 @@ Mercedes-Benz,C-Class,2015,2.2,Petrol,29935.59
 Mercedes-Benz,C-Class,2015,2.3,Electric,68617.08
 Mercedes-Benz,C-Class,2015,2.5,Diesel,67162.28
 Mercedes-Benz,C-Class,2015,2.8,Electric,69809.47
-Mercedes-Benz,C-Class,2015,3.0,Diesel,38931.195
+Mercedes-Benz,C-Class,2015,3.0,Diesel,38931.2
 Mercedes-Benz,C-Class,2015,3.0,Petrol,34924.66
 Mercedes-Benz,C-Class,2015,3.4,Diesel,68745.73
 Mercedes-Benz,C-Class,2015,4.0,Diesel,73191.46
@@ -5830,7 +5830,7 @@ Mercedes-Benz,C-Class,2016,3.3,Hybrid,55139.25
 Mercedes-Benz,C-Class,2016,4.2,Electric,55405.69
 Mercedes-Benz,C-Class,2016,4.3,Electric,52919.5
 Mercedes-Benz,C-Class,2016,4.4,Hybrid,79737.06
-Mercedes-Benz,C-Class,2016,4.5,Petrol,50560.155
+Mercedes-Benz,C-Class,2016,4.5,Petrol,50560.16
 Mercedes-Benz,C-Class,2016,4.7,Electric,40529.04
 Mercedes-Benz,C-Class,2016,4.9,Petrol,46570.61
 Mercedes-Benz,C-Class,2017,1.4,Diesel,30479.51
@@ -5867,15 +5867,15 @@ Mercedes-Benz,C-Class,2018,3.5,Hybrid,76954.12
 Mercedes-Benz,C-Class,2018,3.5,Petrol,58433.95
 Mercedes-Benz,C-Class,2018,3.6,Diesel,67739.95
 Mercedes-Benz,C-Class,2018,3.7,Petrol,40123.76
-Mercedes-Benz,C-Class,2018,3.8,Diesel,57598.945
+Mercedes-Benz,C-Class,2018,3.8,Diesel,57598.94
 Mercedes-Benz,C-Class,2018,3.8,Hybrid,18699.57
 Mercedes-Benz,C-Class,2018,3.8,Petrol,62869.18
 Mercedes-Benz,C-Class,2018,3.9,Petrol,72987.2
-Mercedes-Benz,C-Class,2018,4.9,Diesel,59342.09666666667
+Mercedes-Benz,C-Class,2018,4.9,Diesel,59342.1
 Mercedes-Benz,C-Class,2018,5.0,Electric,64724.05
-Mercedes-Benz,C-Class,2019,1.3,Hybrid,50460.295
+Mercedes-Benz,C-Class,2019,1.3,Hybrid,50460.3
 Mercedes-Benz,C-Class,2019,1.6,Hybrid,22943.05
-Mercedes-Benz,C-Class,2019,1.8,Diesel,22702.335
+Mercedes-Benz,C-Class,2019,1.8,Diesel,22702.34
 Mercedes-Benz,C-Class,2019,1.9,Diesel,35320.75
 Mercedes-Benz,C-Class,2019,1.9,Hybrid,25980.08
 Mercedes-Benz,C-Class,2019,2.2,Hybrid,78258.62
@@ -5912,7 +5912,7 @@ Mercedes-Benz,E-Class,2010,1.7,Diesel,18291.96
 Mercedes-Benz,E-Class,2010,1.9,Hybrid,47087.49
 Mercedes-Benz,E-Class,2010,2.3,Hybrid,21053.73
 Mercedes-Benz,E-Class,2010,2.3,Petrol,79792.67
-Mercedes-Benz,E-Class,2010,2.4,Electric,51879.285
+Mercedes-Benz,E-Class,2010,2.4,Electric,51879.28
 Mercedes-Benz,E-Class,2010,2.5,Diesel,61757.34
 Mercedes-Benz,E-Class,2010,2.5,Hybrid,62794.35
 Mercedes-Benz,E-Class,2010,2.6,Petrol,34315.26
@@ -5948,7 +5948,7 @@ Mercedes-Benz,E-Class,2011,4.5,Electric,29674.83
 Mercedes-Benz,E-Class,2011,4.7,Hybrid,70755.28
 Mercedes-Benz,E-Class,2012,1.0,Electric,67174.38
 Mercedes-Benz,E-Class,2012,1.9,Hybrid,63017.31
-Mercedes-Benz,E-Class,2012,2.2,Diesel,31624.00333333333
+Mercedes-Benz,E-Class,2012,2.2,Diesel,31624.0
 Mercedes-Benz,E-Class,2012,2.2,Electric,41665.3
 Mercedes-Benz,E-Class,2012,2.6,Electric,21565.67
 Mercedes-Benz,E-Class,2012,2.7,Electric,29079.69
@@ -5985,7 +5985,7 @@ Mercedes-Benz,E-Class,2014,1.6,Hybrid,51477.77
 Mercedes-Benz,E-Class,2014,1.7,Diesel,76147.21
 Mercedes-Benz,E-Class,2014,1.9,Hybrid,72709.55
 Mercedes-Benz,E-Class,2014,2.5,Petrol,49855.56
-Mercedes-Benz,E-Class,2014,2.7,Electric,51352.835
+Mercedes-Benz,E-Class,2014,2.7,Electric,51352.84
 Mercedes-Benz,E-Class,2014,2.7,Hybrid,56248.6
 Mercedes-Benz,E-Class,2014,2.9,Hybrid,41278.76
 Mercedes-Benz,E-Class,2014,3.0,Petrol,72819.33
@@ -5993,7 +5993,7 @@ Mercedes-Benz,E-Class,2014,3.4,Hybrid,31444.48
 Mercedes-Benz,E-Class,2014,4.0,Hybrid,79188.17
 Mercedes-Benz,E-Class,2014,4.0,Petrol,45729.96
 Mercedes-Benz,E-Class,2014,4.2,Electric,39450.72
-Mercedes-Benz,E-Class,2014,4.4,Hybrid,58313.015
+Mercedes-Benz,E-Class,2014,4.4,Hybrid,58313.02
 Mercedes-Benz,E-Class,2014,4.7,Petrol,19179.25
 Mercedes-Benz,E-Class,2014,4.8,Hybrid,20890.91
 Mercedes-Benz,E-Class,2015,1.2,Diesel,31783.93
@@ -6035,7 +6035,7 @@ Mercedes-Benz,E-Class,2016,4.2,Hybrid,40606.99
 Mercedes-Benz,E-Class,2016,4.3,Electric,19401.58
 Mercedes-Benz,E-Class,2016,4.4,Electric,67533.51
 Mercedes-Benz,E-Class,2016,4.6,Hybrid,68111.73
-Mercedes-Benz,E-Class,2016,4.9,Diesel,32262.739999999998
+Mercedes-Benz,E-Class,2016,4.9,Diesel,32262.74
 Mercedes-Benz,E-Class,2016,5.0,Hybrid,41954.87
 Mercedes-Benz,E-Class,2017,1.2,Petrol,26722.11
 Mercedes-Benz,E-Class,2017,1.6,Petrol,78079.39
@@ -6047,7 +6047,7 @@ Mercedes-Benz,E-Class,2017,2.4,Petrol,74872.74
 Mercedes-Benz,E-Class,2017,2.5,Electric,46050.59
 Mercedes-Benz,E-Class,2017,2.6,Diesel,69312.68
 Mercedes-Benz,E-Class,2017,2.6,Electric,15067.38
-Mercedes-Benz,E-Class,2017,2.8,Diesel,45281.635
+Mercedes-Benz,E-Class,2017,2.8,Diesel,45281.64
 Mercedes-Benz,E-Class,2017,3.0,Electric,60307.3
 Mercedes-Benz,E-Class,2017,3.5,Diesel,28529.2
 Mercedes-Benz,E-Class,2017,3.7,Hybrid,50656.9
@@ -6153,7 +6153,7 @@ Mercedes-Benz,GLA,2012,2.9,Petrol,70329.4
 Mercedes-Benz,GLA,2012,3.6,Petrol,67196.68
 Mercedes-Benz,GLA,2012,3.7,Diesel,77127.54
 Mercedes-Benz,GLA,2012,3.8,Diesel,22273.65
-Mercedes-Benz,GLA,2013,1.9,Hybrid,45506.445
+Mercedes-Benz,GLA,2013,1.9,Hybrid,45506.44
 Mercedes-Benz,GLA,2013,2.2,Diesel,78703.71
 Mercedes-Benz,GLA,2013,2.6,Hybrid,50823.1
 Mercedes-Benz,GLA,2013,2.8,Petrol,79948.67
@@ -6208,7 +6208,7 @@ Mercedes-Benz,GLA,2016,2.5,Electric,46901.66
 Mercedes-Benz,GLA,2016,2.8,Petrol,26691.83
 Mercedes-Benz,GLA,2016,3.1,Petrol,69630.71
 Mercedes-Benz,GLA,2016,3.3,Diesel,46653.25
-Mercedes-Benz,GLA,2016,3.3,Petrol,38867.785
+Mercedes-Benz,GLA,2016,3.3,Petrol,38867.79
 Mercedes-Benz,GLA,2016,3.4,Petrol,48220.29
 Mercedes-Benz,GLA,2016,3.8,Electric,28094.1
 Mercedes-Benz,GLA,2016,4.2,Diesel,64170.98
@@ -6224,7 +6224,7 @@ Mercedes-Benz,GLA,2017,2.6,Diesel,38688.53
 Mercedes-Benz,GLA,2017,3.4,Electric,70499.82
 Mercedes-Benz,GLA,2017,3.6,Hybrid,70094.13
 Mercedes-Benz,GLA,2017,3.6,Petrol,43503.33
-Mercedes-Benz,GLA,2017,4.1,Hybrid,44709.555
+Mercedes-Benz,GLA,2017,4.1,Hybrid,44709.56
 Mercedes-Benz,GLA,2017,4.6,Petrol,78723.47
 Mercedes-Benz,GLA,2017,4.9,Electric,63393.61
 Mercedes-Benz,GLA,2018,1.1,Hybrid,53900.54
@@ -6258,14 +6258,14 @@ Mercedes-Benz,GLA,2019,2.3,Diesel,68460.22
 Mercedes-Benz,GLA,2019,3.1,Hybrid,35504.92
 Mercedes-Benz,GLA,2019,3.2,Hybrid,32535.44
 Mercedes-Benz,GLA,2019,3.4,Hybrid,23635.21
-Mercedes-Benz,GLA,2019,3.5,Electric,56611.895000000004
+Mercedes-Benz,GLA,2019,3.5,Electric,56611.9
 Mercedes-Benz,GLA,2019,4.0,Hybrid,51444.76
 Mercedes-Benz,GLA,2019,4.2,Hybrid,22191.02
 Mercedes-Benz,GLA,2019,4.3,Hybrid,23274.0
 Mercedes-Benz,GLA,2019,4.3,Petrol,37136.5
-Mercedes-Benz,GLA,2019,4.4,Diesel,48218.354999999996
+Mercedes-Benz,GLA,2019,4.4,Diesel,48218.36
 Mercedes-Benz,GLA,2019,4.8,Petrol,21472.07
-Mercedes-Benz,GLA,2020,1.1,Electric,49010.655
+Mercedes-Benz,GLA,2020,1.1,Electric,49010.66
 Mercedes-Benz,GLA,2020,1.7,Petrol,21682.81
 Mercedes-Benz,GLA,2020,1.9,Diesel,57385.19
 Mercedes-Benz,GLA,2020,1.9,Hybrid,78319.21
@@ -6297,14 +6297,14 @@ Mercedes-Benz,GLC,2010,2.6,Electric,71501.44
 Mercedes-Benz,GLC,2010,2.8,Petrol,40116.28
 Mercedes-Benz,GLC,2010,3.0,Diesel,75630.48
 Mercedes-Benz,GLC,2010,3.1,Electric,43551.07
-Mercedes-Benz,GLC,2010,3.2,Petrol,51008.44666666666
+Mercedes-Benz,GLC,2010,3.2,Petrol,51008.45
 Mercedes-Benz,GLC,2010,3.4,Diesel,54923.34
 Mercedes-Benz,GLC,2010,3.8,Hybrid,36037.29
 Mercedes-Benz,GLC,2010,3.9,Diesel,69832.8
 Mercedes-Benz,GLC,2010,4.0,Diesel,55121.4
 Mercedes-Benz,GLC,2010,4.1,Hybrid,72608.11
 Mercedes-Benz,GLC,2010,4.3,Electric,53437.11
-Mercedes-Benz,GLC,2010,4.4,Hybrid,28429.755
+Mercedes-Benz,GLC,2010,4.4,Hybrid,28429.76
 Mercedes-Benz,GLC,2010,4.7,Petrol,25517.45
 Mercedes-Benz,GLC,2011,1.2,Diesel,51687.98
 Mercedes-Benz,GLC,2011,1.4,Hybrid,61167.82
@@ -6318,7 +6318,7 @@ Mercedes-Benz,GLC,2011,3.2,Electric,49555.55
 Mercedes-Benz,GLC,2011,3.7,Diesel,35802.14
 Mercedes-Benz,GLC,2011,3.7,Electric,38391.94
 Mercedes-Benz,GLC,2011,3.7,Petrol,38144.31
-Mercedes-Benz,GLC,2011,3.9,Hybrid,49201.729999999996
+Mercedes-Benz,GLC,2011,3.9,Hybrid,49201.73
 Mercedes-Benz,GLC,2011,4.2,Petrol,23471.67
 Mercedes-Benz,GLC,2011,4.3,Diesel,27705.58
 Mercedes-Benz,GLC,2011,4.6,Hybrid,37516.16
@@ -6398,7 +6398,7 @@ Mercedes-Benz,GLC,2016,3.0,Electric,27583.25
 Mercedes-Benz,GLC,2016,3.2,Hybrid,20875.51
 Mercedes-Benz,GLC,2016,3.3,Diesel,46947.86
 Mercedes-Benz,GLC,2016,3.5,Petrol,28469.36
-Mercedes-Benz,GLC,2016,3.7,Electric,27834.324999999997
+Mercedes-Benz,GLC,2016,3.7,Electric,27834.32
 Mercedes-Benz,GLC,2016,3.8,Hybrid,46594.22
 Mercedes-Benz,GLC,2016,3.9,Electric,40069.54
 Mercedes-Benz,GLC,2016,4.0,Diesel,37748.56
@@ -6425,7 +6425,7 @@ Mercedes-Benz,GLC,2018,1.7,Hybrid,65232.86
 Mercedes-Benz,GLC,2018,1.9,Electric,34064.74
 Mercedes-Benz,GLC,2018,2.1,Electric,65463.75
 Mercedes-Benz,GLC,2018,2.4,Electric,46096.07
-Mercedes-Benz,GLC,2018,2.7,Hybrid,43032.634999999995
+Mercedes-Benz,GLC,2018,2.7,Hybrid,43032.63
 Mercedes-Benz,GLC,2018,3.1,Petrol,74378.1
 Mercedes-Benz,GLC,2018,3.4,Hybrid,40263.02
 Mercedes-Benz,GLC,2018,3.4,Petrol,60535.84
@@ -6468,7 +6468,7 @@ Mercedes-Benz,S-Class,2010,2.2,Electric,17092.02
 Mercedes-Benz,S-Class,2010,2.3,Hybrid,74138.34
 Mercedes-Benz,S-Class,2010,2.9,Electric,44631.06
 Mercedes-Benz,S-Class,2010,3.4,Hybrid,50928.65
-Mercedes-Benz,S-Class,2010,3.5,Diesel,36369.075
+Mercedes-Benz,S-Class,2010,3.5,Diesel,36369.07
 Mercedes-Benz,S-Class,2010,3.6,Hybrid,15185.97
 Mercedes-Benz,S-Class,2010,3.8,Hybrid,17507.14
 Mercedes-Benz,S-Class,2010,3.9,Electric,36573.14
@@ -6478,7 +6478,7 @@ Mercedes-Benz,S-Class,2010,4.8,Electric,73740.66
 Mercedes-Benz,S-Class,2010,4.9,Electric,65801.04
 Mercedes-Benz,S-Class,2010,4.9,Petrol,23778.49
 Mercedes-Benz,S-Class,2011,1.1,Electric,36082.89
-Mercedes-Benz,S-Class,2011,1.5,Diesel,59517.494999999995
+Mercedes-Benz,S-Class,2011,1.5,Diesel,59517.5
 Mercedes-Benz,S-Class,2011,1.7,Electric,26555.28
 Mercedes-Benz,S-Class,2011,1.8,Diesel,55506.47
 Mercedes-Benz,S-Class,2011,2.1,Diesel,70115.79
@@ -6507,7 +6507,7 @@ Mercedes-Benz,S-Class,2012,5.0,Electric,50158.81
 Mercedes-Benz,S-Class,2013,1.0,Diesel,75207.57
 Mercedes-Benz,S-Class,2013,1.2,Hybrid,26997.67
 Mercedes-Benz,S-Class,2013,1.3,Diesel,66534.91
-Mercedes-Benz,S-Class,2013,1.4,Diesel,72936.105
+Mercedes-Benz,S-Class,2013,1.4,Diesel,72936.1
 Mercedes-Benz,S-Class,2013,1.5,Electric,46563.77
 Mercedes-Benz,S-Class,2013,1.6,Electric,43929.94
 Mercedes-Benz,S-Class,2013,1.7,Hybrid,67294.68
@@ -6545,7 +6545,7 @@ Mercedes-Benz,S-Class,2014,3.3,Electric,20756.36
 Mercedes-Benz,S-Class,2014,3.6,Hybrid,38945.58
 Mercedes-Benz,S-Class,2014,3.7,Hybrid,31032.96
 Mercedes-Benz,S-Class,2014,3.7,Petrol,53036.33
-Mercedes-Benz,S-Class,2014,4.0,Diesel,59213.805
+Mercedes-Benz,S-Class,2014,4.0,Diesel,59213.8
 Mercedes-Benz,S-Class,2014,4.4,Hybrid,34110.77
 Mercedes-Benz,S-Class,2015,1.4,Petrol,29411.82
 Mercedes-Benz,S-Class,2015,1.7,Electric,33042.6
@@ -6582,7 +6582,7 @@ Mercedes-Benz,S-Class,2016,4.0,Diesel,20246.18
 Mercedes-Benz,S-Class,2016,4.7,Hybrid,62566.19
 Mercedes-Benz,S-Class,2017,1.2,Hybrid,33961.6
 Mercedes-Benz,S-Class,2017,1.3,Hybrid,79819.32
-Mercedes-Benz,S-Class,2017,1.3,Petrol,68190.33499999999
+Mercedes-Benz,S-Class,2017,1.3,Petrol,68190.33
 Mercedes-Benz,S-Class,2017,1.5,Petrol,23200.54
 Mercedes-Benz,S-Class,2017,2.1,Electric,30665.1
 Mercedes-Benz,S-Class,2017,2.4,Diesel,39406.47
@@ -6613,7 +6613,7 @@ Mercedes-Benz,S-Class,2019,2.4,Diesel,59711.9
 Mercedes-Benz,S-Class,2019,2.4,Petrol,56665.85
 Mercedes-Benz,S-Class,2019,2.9,Diesel,77757.9
 Mercedes-Benz,S-Class,2019,3.8,Hybrid,37748.87
-Mercedes-Benz,S-Class,2019,4.0,Diesel,58098.299999999996
+Mercedes-Benz,S-Class,2019,4.0,Diesel,58098.3
 Mercedes-Benz,S-Class,2019,4.0,Petrol,15755.61
 Mercedes-Benz,S-Class,2020,1.1,Electric,73504.08
 Mercedes-Benz,S-Class,2020,1.2,Electric,50876.12
@@ -6655,14 +6655,14 @@ Nissan,Altima,2011,2.3,Electric,51398.71
 Nissan,Altima,2011,2.7,Electric,66125.3
 Nissan,Altima,2011,2.7,Petrol,72858.96
 Nissan,Altima,2011,2.8,Electric,79566.99
-Nissan,Altima,2011,3.1,Electric,47721.895
+Nissan,Altima,2011,3.1,Electric,47721.9
 Nissan,Altima,2011,3.4,Petrol,56448.8
 Nissan,Altima,2011,3.8,Electric,75555.4
 Nissan,Altima,2011,5.0,Electric,50217.73
 Nissan,Altima,2012,1.4,Electric,24878.09
 Nissan,Altima,2012,1.5,Diesel,45770.3
 Nissan,Altima,2012,1.5,Electric,40889.67
-Nissan,Altima,2012,2.3,Diesel,37048.605
+Nissan,Altima,2012,2.3,Diesel,37048.61
 Nissan,Altima,2012,2.4,Petrol,34757.45
 Nissan,Altima,2012,2.7,Petrol,77480.15
 Nissan,Altima,2012,2.8,Hybrid,55140.16
@@ -6689,7 +6689,7 @@ Nissan,Altima,2013,2.7,Diesel,35412.12
 Nissan,Altima,2013,3.0,Petrol,22265.58
 Nissan,Altima,2013,3.4,Hybrid,65987.24
 Nissan,Altima,2013,3.5,Hybrid,34775.91
-Nissan,Altima,2013,4.2,Diesel,53508.770000000004
+Nissan,Altima,2013,4.2,Diesel,53508.77
 Nissan,Altima,2013,4.3,Electric,53193.73
 Nissan,Altima,2013,4.7,Hybrid,61077.86
 Nissan,Altima,2013,4.8,Diesel,76892.3
@@ -6729,7 +6729,7 @@ Nissan,Altima,2015,4.5,Hybrid,32928.91
 Nissan,Altima,2015,4.8,Hybrid,69476.15
 Nissan,Altima,2015,4.9,Hybrid,48427.42
 Nissan,Altima,2016,1.1,Hybrid,25020.73
-Nissan,Altima,2016,1.5,Diesel,70194.54000000001
+Nissan,Altima,2016,1.5,Diesel,70194.54
 Nissan,Altima,2016,1.5,Electric,19431.15
 Nissan,Altima,2016,1.9,Diesel,76558.16
 Nissan,Altima,2016,1.9,Electric,72938.62
@@ -6837,18 +6837,18 @@ Nissan,Murano,2010,4.7,Electric,50098.62
 Nissan,Murano,2011,1.1,Petrol,18096.76
 Nissan,Murano,2011,1.4,Electric,52861.87
 Nissan,Murano,2011,1.7,Electric,70638.48
-Nissan,Murano,2011,1.8,Diesel,58317.854999999996
+Nissan,Murano,2011,1.8,Diesel,58317.86
 Nissan,Murano,2011,2.1,Electric,33119.84
 Nissan,Murano,2011,2.2,Hybrid,64410.01
 Nissan,Murano,2011,2.3,Electric,78660.5
 Nissan,Murano,2011,2.3,Hybrid,56480.16
 Nissan,Murano,2011,2.7,Hybrid,41102.13
 Nissan,Murano,2011,2.8,Electric,53542.99
-Nissan,Murano,2011,3.4,Hybrid,38336.880000000005
+Nissan,Murano,2011,3.4,Hybrid,38336.88
 Nissan,Murano,2011,3.6,Electric,61175.74
 Nissan,Murano,2011,3.7,Electric,68441.16
 Nissan,Murano,2011,3.8,Hybrid,46273.26
-Nissan,Murano,2011,4.0,Electric,48324.505000000005
+Nissan,Murano,2011,4.0,Electric,48324.5
 Nissan,Murano,2011,4.2,Hybrid,76963.44
 Nissan,Murano,2011,4.2,Petrol,59124.88
 Nissan,Murano,2011,4.4,Electric,66532.66
@@ -6861,7 +6861,7 @@ Nissan,Murano,2012,1.4,Electric,43839.17
 Nissan,Murano,2012,1.6,Diesel,78540.9
 Nissan,Murano,2012,1.6,Hybrid,71755.46
 Nissan,Murano,2012,1.7,Diesel,44934.16
-Nissan,Murano,2012,1.7,Hybrid,57947.725
+Nissan,Murano,2012,1.7,Hybrid,57947.72
 Nissan,Murano,2012,2.5,Electric,79792.81
 Nissan,Murano,2012,2.9,Electric,42189.32
 Nissan,Murano,2012,3.0,Hybrid,66040.09
@@ -6895,7 +6895,7 @@ Nissan,Murano,2013,3.3,Petrol,31178.01
 Nissan,Murano,2013,3.5,Electric,23889.77
 Nissan,Murano,2013,3.8,Hybrid,56839.96
 Nissan,Murano,2013,4.0,Petrol,28611.02
-Nissan,Murano,2013,4.1,Petrol,48512.445
+Nissan,Murano,2013,4.1,Petrol,48512.44
 Nissan,Murano,2013,4.9,Hybrid,37680.69
 Nissan,Murano,2014,1.1,Petrol,22896.55
 Nissan,Murano,2014,1.3,Diesel,68292.76
@@ -6912,7 +6912,7 @@ Nissan,Murano,2014,3.4,Petrol,62587.67
 Nissan,Murano,2014,3.5,Electric,79544.64
 Nissan,Murano,2014,3.7,Hybrid,33717.54
 Nissan,Murano,2014,3.7,Petrol,76753.67
-Nissan,Murano,2014,3.8,Hybrid,35046.695
+Nissan,Murano,2014,3.8,Hybrid,35046.7
 Nissan,Murano,2014,5.0,Petrol,28693.73
 Nissan,Murano,2015,1.1,Petrol,19545.89
 Nissan,Murano,2015,1.5,Petrol,46365.46
@@ -6930,7 +6930,7 @@ Nissan,Murano,2015,4.9,Electric,75328.4
 Nissan,Murano,2016,1.3,Petrol,54312.59
 Nissan,Murano,2016,1.4,Electric,16499.78
 Nissan,Murano,2016,1.4,Hybrid,78632.29
-Nissan,Murano,2016,1.6,Electric,45664.979999999996
+Nissan,Murano,2016,1.6,Electric,45664.98
 Nissan,Murano,2016,1.7,Hybrid,73846.56
 Nissan,Murano,2016,1.8,Diesel,72791.75
 Nissan,Murano,2016,1.8,Petrol,18496.73
@@ -6983,18 +6983,18 @@ Nissan,Murano,2019,1.1,Petrol,34134.98
 Nissan,Murano,2019,1.3,Petrol,58566.91
 Nissan,Murano,2019,2.5,Hybrid,42397.09
 Nissan,Murano,2019,2.9,Hybrid,46693.17
-Nissan,Murano,2019,3.3,Diesel,50778.225000000006
+Nissan,Murano,2019,3.3,Diesel,50778.23
 Nissan,Murano,2019,3.3,Petrol,17160.68
 Nissan,Murano,2019,3.8,Diesel,70990.63
 Nissan,Murano,2019,3.8,Hybrid,43111.99
 Nissan,Murano,2019,3.8,Petrol,60247.46
 Nissan,Murano,2019,4.0,Diesel,28462.18
 Nissan,Murano,2019,4.2,Hybrid,28975.46
-Nissan,Murano,2019,4.3,Electric,40170.575
+Nissan,Murano,2019,4.3,Electric,40170.57
 Nissan,Murano,2019,4.7,Diesel,74686.81
 Nissan,Murano,2019,4.7,Hybrid,48416.67
 Nissan,Murano,2019,4.8,Petrol,46218.2
-Nissan,Murano,2020,1.1,Diesel,64482.295
+Nissan,Murano,2020,1.1,Diesel,64482.3
 Nissan,Murano,2020,1.1,Electric,76038.52
 Nissan,Murano,2020,1.2,Electric,64456.43
 Nissan,Murano,2020,1.3,Electric,38938.41
@@ -7101,7 +7101,7 @@ Nissan,Rogue,2015,1.2,Diesel,32200.63
 Nissan,Rogue,2015,1.3,Diesel,69165.6
 Nissan,Rogue,2015,1.4,Diesel,29764.66
 Nissan,Rogue,2015,1.4,Hybrid,62346.06
-Nissan,Rogue,2015,1.7,Diesel,18972.489999999998
+Nissan,Rogue,2015,1.7,Diesel,18972.49
 Nissan,Rogue,2015,2.0,Petrol,64053.67
 Nissan,Rogue,2015,2.4,Hybrid,47683.83
 Nissan,Rogue,2015,2.6,Petrol,27433.2
@@ -7137,7 +7137,7 @@ Nissan,Rogue,2017,1.0,Electric,15358.58
 Nissan,Rogue,2017,1.4,Petrol,51043.89
 Nissan,Rogue,2017,2.2,Petrol,21995.39
 Nissan,Rogue,2017,2.3,Petrol,69940.21
-Nissan,Rogue,2017,2.6,Diesel,60252.065
+Nissan,Rogue,2017,2.6,Diesel,60252.06
 Nissan,Rogue,2017,2.7,Electric,46805.1
 Nissan,Rogue,2017,2.7,Hybrid,72477.38
 Nissan,Rogue,2017,2.7,Petrol,23071.86
@@ -7169,7 +7169,7 @@ Nissan,Rogue,2018,3.3,Electric,36056.31
 Nissan,Rogue,2018,3.4,Hybrid,39568.92
 Nissan,Rogue,2018,3.9,Hybrid,32967.73
 Nissan,Rogue,2018,4.0,Hybrid,62805.95
-Nissan,Rogue,2018,4.2,Diesel,55798.22499999999
+Nissan,Rogue,2018,4.2,Diesel,55798.22
 Nissan,Rogue,2018,4.2,Hybrid,58433.59
 Nissan,Rogue,2018,4.5,Diesel,54943.4
 Nissan,Rogue,2018,4.5,Electric,66968.55
@@ -7189,7 +7189,7 @@ Nissan,Rogue,2019,3.5,Hybrid,30600.62
 Nissan,Rogue,2019,3.7,Hybrid,38064.37
 Nissan,Rogue,2019,3.9,Electric,53242.57
 Nissan,Rogue,2019,4.4,Petrol,31696.11
-Nissan,Rogue,2019,4.5,Hybrid,56400.380000000005
+Nissan,Rogue,2019,4.5,Hybrid,56400.38
 Nissan,Rogue,2019,4.6,Electric,57906.63
 Nissan,Rogue,2019,4.7,Electric,37799.3
 Nissan,Rogue,2019,4.9,Electric,76730.89
@@ -7217,7 +7217,7 @@ Nissan,Sentra,2010,1.5,Hybrid,50543.89
 Nissan,Sentra,2010,1.6,Hybrid,40430.27
 Nissan,Sentra,2010,1.6,Petrol,69589.78
 Nissan,Sentra,2010,1.7,Hybrid,79228.01
-Nissan,Sentra,2010,1.8,Petrol,27443.135
+Nissan,Sentra,2010,1.8,Petrol,27443.14
 Nissan,Sentra,2010,2.5,Petrol,42205.85
 Nissan,Sentra,2010,2.7,Electric,19540.2
 Nissan,Sentra,2010,2.8,Hybrid,55837.87
@@ -7309,7 +7309,7 @@ Nissan,Sentra,2015,1.2,Hybrid,16363.64
 Nissan,Sentra,2015,1.3,Hybrid,42246.12
 Nissan,Sentra,2015,1.5,Electric,64644.88
 Nissan,Sentra,2015,1.6,Petrol,21907.29
-Nissan,Sentra,2015,1.7,Diesel,62773.979999999996
+Nissan,Sentra,2015,1.7,Diesel,62773.98
 Nissan,Sentra,2015,1.9,Electric,38680.84
 Nissan,Sentra,2015,2.5,Hybrid,40847.49
 Nissan,Sentra,2015,2.6,Electric,34937.29
@@ -7352,7 +7352,7 @@ Nissan,Sentra,2017,2.0,Petrol,42704.32
 Nissan,Sentra,2017,2.1,Electric,48688.13
 Nissan,Sentra,2017,2.3,Electric,77378.41
 Nissan,Sentra,2017,2.3,Petrol,20420.11
-Nissan,Sentra,2017,2.5,Electric,54154.395000000004
+Nissan,Sentra,2017,2.5,Electric,54154.4
 Nissan,Sentra,2017,2.5,Petrol,67172.6
 Nissan,Sentra,2017,2.6,Diesel,76729.72
 Nissan,Sentra,2017,3.2,Hybrid,59294.61
@@ -7478,7 +7478,7 @@ Nissan,Versa,2012,2.5,Petrol,65745.23
 Nissan,Versa,2012,2.7,Petrol,40322.91
 Nissan,Versa,2012,3.4,Electric,52775.91
 Nissan,Versa,2012,3.4,Hybrid,33319.94
-Nissan,Versa,2012,3.8,Hybrid,40151.445
+Nissan,Versa,2012,3.8,Hybrid,40151.44
 Nissan,Versa,2012,4.0,Diesel,33182.09
 Nissan,Versa,2012,4.0,Petrol,66502.77
 Nissan,Versa,2012,4.3,Diesel,64306.23
@@ -7493,7 +7493,7 @@ Nissan,Versa,2013,2.2,Hybrid,44669.3
 Nissan,Versa,2013,2.5,Diesel,54069.3
 Nissan,Versa,2013,2.5,Petrol,70095.4
 Nissan,Versa,2013,2.7,Diesel,46340.94
-Nissan,Versa,2013,2.9,Diesel,26899.245000000003
+Nissan,Versa,2013,2.9,Diesel,26899.25
 Nissan,Versa,2013,3.3,Diesel,57634.67
 Nissan,Versa,2013,3.7,Diesel,24032.38
 Nissan,Versa,2013,3.8,Hybrid,38556.88
@@ -7508,7 +7508,7 @@ Nissan,Versa,2014,1.2,Petrol,40346.13
 Nissan,Versa,2014,1.5,Petrol,47240.8
 Nissan,Versa,2014,1.7,Diesel,51353.73
 Nissan,Versa,2014,1.8,Electric,51293.17
-Nissan,Versa,2014,1.9,Diesel,32696.625
+Nissan,Versa,2014,1.9,Diesel,32696.62
 Nissan,Versa,2014,2.0,Electric,24037.37
 Nissan,Versa,2014,2.0,Hybrid,63696.58
 Nissan,Versa,2014,2.2,Hybrid,40493.88
@@ -7606,7 +7606,7 @@ Nissan,Versa,2019,2.9,Hybrid,59795.13
 Nissan,Versa,2019,4.0,Petrol,20104.54
 Nissan,Versa,2019,4.6,Petrol,38551.94
 Nissan,Versa,2019,4.7,Electric,23842.2
-Nissan,Versa,2019,4.8,Petrol,49175.545
+Nissan,Versa,2019,4.8,Petrol,49175.54
 Nissan,Versa,2019,4.9,Diesel,54756.06
 Nissan,Versa,2020,2.1,Petrol,20158.45
 Nissan,Versa,2020,2.6,Electric,40825.01
@@ -7619,7 +7619,7 @@ Nissan,Versa,2020,4.3,Hybrid,78455.47
 Toyota,Camry,2010,1.2,Petrol,61434.59
 Toyota,Camry,2010,1.5,Petrol,19207.61
 Toyota,Camry,2010,1.9,Electric,68921.26
-Toyota,Camry,2010,2.1,Diesel,54053.575
+Toyota,Camry,2010,2.1,Diesel,54053.58
 Toyota,Camry,2010,2.2,Electric,56055.52
 Toyota,Camry,2010,2.5,Petrol,48923.42
 Toyota,Camry,2010,2.8,Petrol,70265.84
@@ -7647,7 +7647,7 @@ Toyota,Camry,2011,3.6,Diesel,36374.68
 Toyota,Camry,2011,3.8,Petrol,72611.85
 Toyota,Camry,2011,4.1,Petrol,73330.14
 Toyota,Camry,2011,4.2,Hybrid,41979.51
-Toyota,Camry,2011,4.5,Petrol,54788.425
+Toyota,Camry,2011,4.5,Petrol,54788.42
 Toyota,Camry,2011,4.9,Petrol,42715.28
 Toyota,Camry,2012,1.2,Hybrid,20713.46
 Toyota,Camry,2012,1.4,Diesel,62809.62
@@ -7660,7 +7660,7 @@ Toyota,Camry,2012,2.7,Petrol,27670.79
 Toyota,Camry,2012,2.8,Hybrid,35873.42
 Toyota,Camry,2012,3.0,Hybrid,20452.01
 Toyota,Camry,2012,3.1,Diesel,52030.62
-Toyota,Camry,2012,3.3,Diesel,49005.675
+Toyota,Camry,2012,3.3,Diesel,49005.68
 Toyota,Camry,2012,3.3,Hybrid,51217.51
 Toyota,Camry,2012,3.4,Petrol,59567.41
 Toyota,Camry,2012,3.6,Diesel,30061.1
@@ -7678,10 +7678,10 @@ Toyota,Camry,2013,2.0,Electric,56116.14
 Toyota,Camry,2013,2.0,Hybrid,47776.21
 Toyota,Camry,2013,2.2,Electric,23071.39
 Toyota,Camry,2013,2.2,Petrol,17004.69
-Toyota,Camry,2013,3.5,Hybrid,30091.965
+Toyota,Camry,2013,3.5,Hybrid,30091.96
 Toyota,Camry,2013,3.7,Diesel,61151.11
 Toyota,Camry,2013,3.8,Diesel,61167.83
-Toyota,Camry,2013,3.8,Hybrid,39202.615
+Toyota,Camry,2013,3.8,Hybrid,39202.62
 Toyota,Camry,2013,3.9,Diesel,41654.2
 Toyota,Camry,2013,3.9,Petrol,52711.52
 Toyota,Camry,2013,4.0,Diesel,57598.21
@@ -7714,13 +7714,13 @@ Toyota,Camry,2015,3.2,Petrol,22127.87
 Toyota,Camry,2015,3.3,Diesel,28632.47
 Toyota,Camry,2015,3.4,Hybrid,69588.37
 Toyota,Camry,2015,3.4,Petrol,30101.26
-Toyota,Camry,2015,3.6,Electric,43258.119999999995
+Toyota,Camry,2015,3.6,Electric,43258.12
 Toyota,Camry,2015,3.7,Diesel,22239.33
 Toyota,Camry,2015,3.8,Electric,45055.97
 Toyota,Camry,2015,4.2,Electric,67158.14
 Toyota,Camry,2015,4.5,Diesel,20412.02
 Toyota,Camry,2015,4.6,Petrol,67645.21
-Toyota,Camry,2015,4.8,Electric,19156.004999999997
+Toyota,Camry,2015,4.8,Electric,19156.0
 Toyota,Camry,2015,4.8,Petrol,64475.19
 Toyota,Camry,2016,1.0,Diesel,16544.25
 Toyota,Camry,2016,1.0,Hybrid,57790.45
@@ -7738,7 +7738,7 @@ Toyota,Camry,2016,3.8,Petrol,33750.86
 Toyota,Camry,2016,4.0,Petrol,21128.76
 Toyota,Camry,2016,4.7,Hybrid,71273.36
 Toyota,Camry,2017,1.3,Hybrid,25070.43
-Toyota,Camry,2017,1.3,Petrol,39639.494999999995
+Toyota,Camry,2017,1.3,Petrol,39639.49
 Toyota,Camry,2017,1.4,Electric,50918.43
 Toyota,Camry,2017,1.6,Hybrid,20638.81
 Toyota,Camry,2017,2.0,Diesel,38719.78
@@ -7751,15 +7751,15 @@ Toyota,Camry,2017,3.4,Electric,48920.01
 Toyota,Camry,2017,3.6,Electric,68824.44
 Toyota,Camry,2017,3.6,Hybrid,74507.24
 Toyota,Camry,2017,3.6,Petrol,44803.06
-Toyota,Camry,2017,4.0,Petrol,59546.600000000006
+Toyota,Camry,2017,4.0,Petrol,59546.6
 Toyota,Camry,2017,4.2,Diesel,58515.71
 Toyota,Camry,2017,4.2,Petrol,48683.22
 Toyota,Camry,2017,4.3,Hybrid,75607.15
 Toyota,Camry,2018,1.2,Diesel,67283.31
 Toyota,Camry,2018,1.3,Diesel,52144.2
 Toyota,Camry,2018,1.6,Diesel,16182.86
-Toyota,Camry,2018,1.7,Hybrid,24741.045
-Toyota,Camry,2018,1.7,Petrol,49034.485
+Toyota,Camry,2018,1.7,Hybrid,24741.04
+Toyota,Camry,2018,1.7,Petrol,49034.48
 Toyota,Camry,2018,2.0,Hybrid,21824.56
 Toyota,Camry,2018,2.8,Petrol,15383.66
 Toyota,Camry,2018,2.9,Diesel,20236.2
@@ -7825,7 +7825,7 @@ Toyota,Corolla,2011,1.2,Diesel,71789.93
 Toyota,Corolla,2011,1.2,Hybrid,16838.43
 Toyota,Corolla,2011,1.7,Petrol,72932.85
 Toyota,Corolla,2011,1.8,Electric,56564.99
-Toyota,Corolla,2011,2.0,Electric,46202.485
+Toyota,Corolla,2011,2.0,Electric,46202.48
 Toyota,Corolla,2011,2.0,Petrol,67464.45
 Toyota,Corolla,2011,2.1,Diesel,39278.15
 Toyota,Corolla,2011,2.2,Petrol,33966.08
@@ -7836,14 +7836,14 @@ Toyota,Corolla,2011,3.4,Diesel,67271.75
 Toyota,Corolla,2011,3.7,Diesel,19453.97
 Toyota,Corolla,2011,3.8,Hybrid,41377.63
 Toyota,Corolla,2011,4.1,Petrol,73274.14
-Toyota,Corolla,2011,4.3,Diesel,28775.520000000004
+Toyota,Corolla,2011,4.3,Diesel,28775.52
 Toyota,Corolla,2011,4.3,Hybrid,40023.41
 Toyota,Corolla,2011,4.6,Diesel,34249.25
 Toyota,Corolla,2011,4.7,Hybrid,55091.19
 Toyota,Corolla,2012,1.0,Electric,15184.27
 Toyota,Corolla,2012,1.3,Electric,27103.96
 Toyota,Corolla,2012,3.2,Petrol,75969.23
-Toyota,Corolla,2012,3.6,Electric,65511.176666666666
+Toyota,Corolla,2012,3.6,Electric,65511.18
 Toyota,Corolla,2012,3.8,Diesel,17713.49
 Toyota,Corolla,2012,4.2,Diesel,18021.19
 Toyota,Corolla,2012,4.3,Electric,61101.45
@@ -7852,7 +7852,7 @@ Toyota,Corolla,2013,1.2,Petrol,54614.07
 Toyota,Corolla,2013,1.6,Electric,31359.57
 Toyota,Corolla,2013,1.6,Hybrid,78984.91
 Toyota,Corolla,2013,1.6,Petrol,48514.82
-Toyota,Corolla,2013,1.7,Diesel,57119.886666666665
+Toyota,Corolla,2013,1.7,Diesel,57119.89
 Toyota,Corolla,2013,1.9,Petrol,49875.49
 Toyota,Corolla,2013,2.1,Hybrid,38136.22
 Toyota,Corolla,2013,2.3,Petrol,67969.21
@@ -7860,7 +7860,7 @@ Toyota,Corolla,2013,2.5,Electric,16946.12
 Toyota,Corolla,2013,2.5,Hybrid,38468.13
 Toyota,Corolla,2013,2.6,Diesel,35072.87
 Toyota,Corolla,2013,2.7,Diesel,35679.78
-Toyota,Corolla,2013,2.8,Electric,31775.925
+Toyota,Corolla,2013,2.8,Electric,31775.92
 Toyota,Corolla,2013,3.2,Petrol,18000.26
 Toyota,Corolla,2013,3.5,Hybrid,43087.57
 Toyota,Corolla,2013,3.6,Diesel,69043.85
@@ -7931,13 +7931,13 @@ Toyota,Corolla,2017,4.6,Electric,79556.23
 Toyota,Corolla,2017,4.7,Diesel,72554.88
 Toyota,Corolla,2017,4.7,Electric,73321.08
 Toyota,Corolla,2018,1.7,Electric,42331.24
-Toyota,Corolla,2018,1.9,Petrol,48369.535
+Toyota,Corolla,2018,1.9,Petrol,48369.54
 Toyota,Corolla,2018,2.2,Electric,23319.48
 Toyota,Corolla,2018,2.9,Diesel,68378.25
 Toyota,Corolla,2018,3.1,Hybrid,76782.22
 Toyota,Corolla,2018,3.2,Diesel,37198.44
 Toyota,Corolla,2018,4.3,Hybrid,67658.94
-Toyota,Corolla,2018,4.8,Hybrid,53793.355
+Toyota,Corolla,2018,4.8,Hybrid,53793.36
 Toyota,Corolla,2019,1.0,Petrol,44704.21
 Toyota,Corolla,2019,1.6,Petrol,76142.19
 Toyota,Corolla,2019,2.6,Electric,75993.27
@@ -7948,7 +7948,7 @@ Toyota,Corolla,2019,4.2,Diesel,65184.66
 Toyota,Corolla,2019,4.2,Hybrid,67006.92
 Toyota,Corolla,2019,4.4,Diesel,51690.99
 Toyota,Corolla,2019,4.4,Hybrid,65035.07
-Toyota,Corolla,2019,4.7,Petrol,31860.895000000004
+Toyota,Corolla,2019,4.7,Petrol,31860.9
 Toyota,Corolla,2019,4.8,Diesel,46935.12
 Toyota,Corolla,2019,5.0,Diesel,70208.8
 Toyota,Corolla,2020,2.1,Electric,57454.73
@@ -7971,7 +7971,7 @@ Toyota,Highlander,2010,1.6,Petrol,44365.89
 Toyota,Highlander,2010,1.7,Petrol,36523.11
 Toyota,Highlander,2010,2.0,Hybrid,62557.75
 Toyota,Highlander,2010,2.9,Hybrid,42277.07
-Toyota,Highlander,2010,3.0,Petrol,55603.975000000006
+Toyota,Highlander,2010,3.0,Petrol,55603.98
 Toyota,Highlander,2010,3.5,Hybrid,38078.83
 Toyota,Highlander,2010,3.6,Electric,28231.06
 Toyota,Highlander,2010,3.6,Hybrid,58123.37
@@ -8012,7 +8012,7 @@ Toyota,Highlander,2012,3.2,Hybrid,48002.91
 Toyota,Highlander,2012,3.4,Diesel,24460.82
 Toyota,Highlander,2012,3.6,Petrol,28644.38
 Toyota,Highlander,2012,3.8,Hybrid,32026.03
-Toyota,Highlander,2012,4.3,Electric,62712.185
+Toyota,Highlander,2012,4.3,Electric,62712.18
 Toyota,Highlander,2012,4.6,Electric,48722.24
 Toyota,Highlander,2012,4.6,Hybrid,25971.76
 Toyota,Highlander,2012,4.7,Petrol,67431.44
@@ -8078,7 +8078,7 @@ Toyota,Highlander,2015,5.0,Diesel,54683.6
 Toyota,Highlander,2016,1.2,Electric,32248.13
 Toyota,Highlander,2016,1.3,Electric,61545.29
 Toyota,Highlander,2016,1.9,Petrol,29015.39
-Toyota,Highlander,2016,2.3,Diesel,34454.869999999995
+Toyota,Highlander,2016,2.3,Diesel,34454.87
 Toyota,Highlander,2016,2.3,Electric,64482.23
 Toyota,Highlander,2016,2.4,Diesel,49499.76
 Toyota,Highlander,2016,3.1,Diesel,65733.51
@@ -8101,7 +8101,7 @@ Toyota,Highlander,2017,2.1,Petrol,64130.36
 Toyota,Highlander,2017,2.3,Diesel,73759.67
 Toyota,Highlander,2017,3.0,Electric,54631.63
 Toyota,Highlander,2017,3.2,Petrol,16974.51
-Toyota,Highlander,2017,4.2,Hybrid,29359.065
+Toyota,Highlander,2017,4.2,Hybrid,29359.06
 Toyota,Highlander,2017,4.4,Diesel,40263.7
 Toyota,Highlander,2017,4.5,Electric,74683.45
 Toyota,Highlander,2018,1.2,Diesel,37297.95
@@ -8166,7 +8166,7 @@ Toyota,Prius,2010,1.3,Petrol,34703.33
 Toyota,Prius,2010,1.4,Hybrid,18291.58
 Toyota,Prius,2010,1.8,Electric,52995.48
 Toyota,Prius,2010,2.3,Diesel,78512.03
-Toyota,Prius,2010,2.3,Hybrid,30019.645
+Toyota,Prius,2010,2.3,Hybrid,30019.64
 Toyota,Prius,2010,2.6,Electric,65773.79
 Toyota,Prius,2010,3.4,Diesel,30339.7
 Toyota,Prius,2010,4.1,Diesel,29252.09
@@ -8188,13 +8188,13 @@ Toyota,Prius,2011,3.2,Diesel,42523.81
 Toyota,Prius,2011,3.5,Electric,16250.35
 Toyota,Prius,2011,3.7,Diesel,63853.73
 Toyota,Prius,2011,3.8,Diesel,48737.48
-Toyota,Prius,2011,4.1,Hybrid,63202.240000000005
+Toyota,Prius,2011,4.1,Hybrid,63202.24
 Toyota,Prius,2011,4.7,Electric,42683.61
 Toyota,Prius,2011,4.8,Petrol,17913.2
 Toyota,Prius,2011,4.9,Electric,59349.04
 Toyota,Prius,2012,1.2,Electric,44802.88
 Toyota,Prius,2012,1.6,Hybrid,29606.99
-Toyota,Prius,2012,1.7,Electric,76980.905
+Toyota,Prius,2012,1.7,Electric,76980.9
 Toyota,Prius,2012,1.9,Petrol,35893.53
 Toyota,Prius,2012,2.2,Diesel,37096.46
 Toyota,Prius,2012,2.2,Hybrid,61492.24
@@ -8250,7 +8250,7 @@ Toyota,Prius,2015,1.5,Diesel,15975.2
 Toyota,Prius,2015,2.4,Petrol,28848.93
 Toyota,Prius,2015,2.7,Electric,21273.82
 Toyota,Prius,2015,2.8,Hybrid,23182.01
-Toyota,Prius,2015,2.9,Electric,28738.065
+Toyota,Prius,2015,2.9,Electric,28738.06
 Toyota,Prius,2015,2.9,Hybrid,34871.73
 Toyota,Prius,2015,2.9,Petrol,60724.92
 Toyota,Prius,2015,3.3,Petrol,58309.46
@@ -8277,8 +8277,8 @@ Toyota,Prius,2017,2.7,Electric,30805.15
 Toyota,Prius,2017,2.8,Diesel,45293.97
 Toyota,Prius,2017,2.9,Diesel,17218.13
 Toyota,Prius,2017,3.2,Electric,51217.39
-Toyota,Prius,2017,3.6,Diesel,41299.885
-Toyota,Prius,2017,3.6,Hybrid,41107.130000000005
+Toyota,Prius,2017,3.6,Diesel,41299.88
+Toyota,Prius,2017,3.6,Hybrid,41107.13
 Toyota,Prius,2017,3.7,Electric,38875.34
 Toyota,Prius,2017,4.0,Hybrid,57089.85
 Toyota,Prius,2017,4.1,Electric,47637.33
@@ -8294,7 +8294,7 @@ Toyota,Prius,2018,3.4,Hybrid,27935.05
 Toyota,Prius,2018,3.5,Hybrid,38558.07
 Toyota,Prius,2018,3.6,Diesel,19470.39
 Toyota,Prius,2018,3.9,Electric,28764.96
-Toyota,Prius,2018,3.9,Hybrid,60353.69666666666
+Toyota,Prius,2018,3.9,Hybrid,60353.7
 Toyota,Prius,2018,4.3,Petrol,17048.08
 Toyota,Prius,2018,4.5,Electric,42297.37
 Toyota,Prius,2018,4.6,Petrol,73156.46
@@ -8341,7 +8341,7 @@ Toyota,Prius,2020,4.6,Hybrid,30701.84
 Toyota,Prius,2020,4.6,Petrol,74917.98
 Toyota,Prius,2020,4.8,Petrol,26886.1
 Toyota,Prius,2020,4.9,Electric,22468.77
-Toyota,RAV4,2010,1.4,Petrol,69221.98999999999
+Toyota,RAV4,2010,1.4,Petrol,69221.99
 Toyota,RAV4,2010,2.4,Petrol,30871.25
 Toyota,RAV4,2010,2.5,Hybrid,68001.16
 Toyota,RAV4,2010,2.6,Diesel,17527.15
@@ -8374,7 +8374,7 @@ Toyota,RAV4,2011,4.9,Electric,66335.33
 Toyota,RAV4,2012,1.0,Electric,45393.22
 Toyota,RAV4,2012,1.1,Hybrid,77301.16
 Toyota,RAV4,2012,1.1,Petrol,25225.84
-Toyota,RAV4,2012,1.3,Diesel,26069.735
+Toyota,RAV4,2012,1.3,Diesel,26069.74
 Toyota,RAV4,2012,1.6,Electric,30472.34
 Toyota,RAV4,2012,1.9,Electric,61557.56
 Toyota,RAV4,2012,2.0,Electric,21327.22
@@ -8412,7 +8412,7 @@ Toyota,RAV4,2014,2.3,Diesel,27552.26
 Toyota,RAV4,2014,2.9,Electric,73935.92
 Toyota,RAV4,2014,2.9,Petrol,18100.17
 Toyota,RAV4,2014,4.1,Hybrid,42310.46
-Toyota,RAV4,2014,4.3,Petrol,55808.345
+Toyota,RAV4,2014,4.3,Petrol,55808.34
 Toyota,RAV4,2014,4.4,Electric,49086.33
 Toyota,RAV4,2014,4.5,Petrol,38895.4
 Toyota,RAV4,2015,1.3,Electric,71053.22
@@ -8439,7 +8439,7 @@ Toyota,RAV4,2016,2.8,Petrol,61835.64
 Toyota,RAV4,2016,3.6,Hybrid,75270.23
 Toyota,RAV4,2016,3.6,Petrol,37599.58
 Toyota,RAV4,2016,3.8,Electric,53946.61
-Toyota,RAV4,2016,4.1,Petrol,43704.854999999996
+Toyota,RAV4,2016,4.1,Petrol,43704.86
 Toyota,RAV4,2016,4.2,Electric,16680.53
 Toyota,RAV4,2016,4.6,Petrol,34792.07
 Toyota,RAV4,2016,4.8,Diesel,39555.33
@@ -8450,7 +8450,7 @@ Toyota,RAV4,2017,1.8,Diesel,27920.04
 Toyota,RAV4,2017,1.9,Hybrid,42888.93
 Toyota,RAV4,2017,2.0,Hybrid,33144.97
 Toyota,RAV4,2017,2.2,Hybrid,55278.94
-Toyota,RAV4,2017,2.3,Electric,39410.425
+Toyota,RAV4,2017,2.3,Electric,39410.43
 Toyota,RAV4,2017,2.4,Hybrid,23795.04
 Toyota,RAV4,2017,2.6,Petrol,37162.6
 Toyota,RAV4,2017,3.0,Diesel,16115.97
@@ -8458,7 +8458,7 @@ Toyota,RAV4,2017,3.0,Hybrid,39381.82
 Toyota,RAV4,2017,3.6,Hybrid,27211.56
 Toyota,RAV4,2017,3.8,Diesel,56863.97
 Toyota,RAV4,2017,4.0,Diesel,25419.81
-Toyota,RAV4,2017,4.3,Electric,40686.270000000004
+Toyota,RAV4,2017,4.3,Electric,40686.27
 Toyota,RAV4,2017,4.5,Electric,44576.86
 Toyota,RAV4,2017,4.7,Electric,64928.82
 Toyota,RAV4,2017,4.8,Hybrid,63236.09
@@ -8484,7 +8484,7 @@ Toyota,RAV4,2019,1.6,Hybrid,27332.84
 Toyota,RAV4,2019,1.7,Diesel,36304.1
 Toyota,RAV4,2019,1.7,Electric,76234.99
 Toyota,RAV4,2019,2.0,Diesel,25968.28
-Toyota,RAV4,2019,2.2,Hybrid,66994.57500000001
+Toyota,RAV4,2019,2.2,Hybrid,66994.58
 Toyota,RAV4,2019,2.2,Petrol,20782.57
 Toyota,RAV4,2019,2.5,Electric,25943.01
 Toyota,RAV4,2019,3.0,Diesel,35670.35
@@ -8507,7 +8507,7 @@ Toyota,RAV4,2020,1.7,Electric,58205.52
 Toyota,RAV4,2020,1.9,Hybrid,68004.47
 Toyota,RAV4,2020,2.0,Hybrid,79065.83
 Toyota,RAV4,2020,2.2,Diesel,50268.85
-Toyota,RAV4,2020,2.3,Hybrid,40527.755000000005
+Toyota,RAV4,2020,2.3,Hybrid,40527.76
 Toyota,RAV4,2020,2.7,Electric,57035.34
 Toyota,RAV4,2020,2.7,Hybrid,45098.27
 Toyota,RAV4,2020,2.7,Petrol,38233.95
@@ -8525,7 +8525,7 @@ Volkswagen,Atlas,2010,1.5,Electric,22881.76
 Volkswagen,Atlas,2010,1.6,Electric,79321.19
 Volkswagen,Atlas,2010,1.7,Electric,18600.24
 Volkswagen,Atlas,2010,2.0,Hybrid,75768.21
-Volkswagen,Atlas,2010,2.0,Petrol,48212.865
+Volkswagen,Atlas,2010,2.0,Petrol,48212.86
 Volkswagen,Atlas,2010,2.3,Hybrid,55997.96
 Volkswagen,Atlas,2010,3.0,Hybrid,28175.7
 Volkswagen,Atlas,2010,3.2,Diesel,65034.87
@@ -8575,7 +8575,7 @@ Volkswagen,Atlas,2012,4.1,Diesel,72720.37
 Volkswagen,Atlas,2012,4.1,Petrol,26645.53
 Volkswagen,Atlas,2012,4.3,Petrol,56663.85
 Volkswagen,Atlas,2012,4.5,Electric,60714.71
-Volkswagen,Atlas,2012,4.8,Electric,59354.985
+Volkswagen,Atlas,2012,4.8,Electric,59354.98
 Volkswagen,Atlas,2012,4.9,Electric,27472.73
 Volkswagen,Atlas,2013,1.4,Electric,77211.64
 Volkswagen,Atlas,2013,1.7,Hybrid,21300.15
@@ -8610,7 +8610,7 @@ Volkswagen,Atlas,2014,4.1,Electric,60037.52
 Volkswagen,Atlas,2014,4.2,Electric,77328.45
 Volkswagen,Atlas,2014,4.4,Hybrid,62666.82
 Volkswagen,Atlas,2014,4.6,Hybrid,70727.93
-Volkswagen,Atlas,2015,1.1,Diesel,54683.965
+Volkswagen,Atlas,2015,1.1,Diesel,54683.96
 Volkswagen,Atlas,2015,1.2,Hybrid,34896.89
 Volkswagen,Atlas,2015,1.4,Petrol,30685.13
 Volkswagen,Atlas,2015,1.8,Electric,56910.19
@@ -8653,7 +8653,7 @@ Volkswagen,Atlas,2017,2.7,Electric,43373.47
 Volkswagen,Atlas,2017,2.8,Electric,29242.85
 Volkswagen,Atlas,2017,2.8,Petrol,56854.62
 Volkswagen,Atlas,2017,3.0,Diesel,68481.93
-Volkswagen,Atlas,2017,3.0,Hybrid,53547.90333333334
+Volkswagen,Atlas,2017,3.0,Hybrid,53547.9
 Volkswagen,Atlas,2017,3.2,Hybrid,40486.65
 Volkswagen,Atlas,2017,3.3,Diesel,52303.54
 Volkswagen,Atlas,2017,3.5,Hybrid,64676.3
@@ -8681,7 +8681,7 @@ Volkswagen,Atlas,2018,4.5,Hybrid,50254.99
 Volkswagen,Atlas,2018,4.6,Electric,32292.99
 Volkswagen,Atlas,2018,4.6,Hybrid,58597.23
 Volkswagen,Atlas,2018,4.7,Hybrid,64499.2
-Volkswagen,Atlas,2018,4.9,Hybrid,70239.13500000001
+Volkswagen,Atlas,2018,4.9,Hybrid,70239.14
 Volkswagen,Atlas,2019,1.1,Electric,74377.37
 Volkswagen,Atlas,2019,1.7,Hybrid,79206.37
 Volkswagen,Atlas,2019,1.9,Diesel,31216.88
@@ -8694,8 +8694,8 @@ Volkswagen,Atlas,2019,3.4,Diesel,47117.08
 Volkswagen,Atlas,2019,3.6,Diesel,19093.17
 Volkswagen,Atlas,2019,3.7,Petrol,56046.99
 Volkswagen,Atlas,2019,4.4,Hybrid,51591.62
-Volkswagen,Atlas,2019,4.8,Petrol,58348.885
-Volkswagen,Atlas,2020,1.3,Hybrid,55825.965
+Volkswagen,Atlas,2019,4.8,Petrol,58348.88
+Volkswagen,Atlas,2020,1.3,Hybrid,55825.96
 Volkswagen,Atlas,2020,1.4,Electric,64693.06
 Volkswagen,Atlas,2020,1.7,Diesel,27008.59
 Volkswagen,Atlas,2020,2.0,Electric,65152.54
@@ -8781,7 +8781,7 @@ Volkswagen,Golf,2013,2.1,Petrol,47023.97
 Volkswagen,Golf,2013,2.2,Electric,52479.95
 Volkswagen,Golf,2013,2.6,Hybrid,42282.18
 Volkswagen,Golf,2013,2.7,Petrol,66348.17
-Volkswagen,Golf,2013,2.8,Diesel,51658.990000000005
+Volkswagen,Golf,2013,2.8,Diesel,51658.99
 Volkswagen,Golf,2013,2.8,Hybrid,36772.44
 Volkswagen,Golf,2013,2.8,Petrol,49866.75
 Volkswagen,Golf,2013,2.9,Hybrid,28397.77
@@ -8828,13 +8828,13 @@ Volkswagen,Golf,2015,3.3,Hybrid,29707.03
 Volkswagen,Golf,2015,3.4,Diesel,46978.16
 Volkswagen,Golf,2015,3.7,Electric,69822.88
 Volkswagen,Golf,2015,3.7,Petrol,74674.54
-Volkswagen,Golf,2015,4.0,Electric,58708.55499999999
+Volkswagen,Golf,2015,4.0,Electric,58708.55
 Volkswagen,Golf,2015,4.1,Hybrid,36204.92
 Volkswagen,Golf,2015,4.1,Petrol,40641.56
 Volkswagen,Golf,2015,4.2,Electric,31139.45
 Volkswagen,Golf,2015,4.3,Diesel,60092.34
 Volkswagen,Golf,2015,4.4,Diesel,73625.18
-Volkswagen,Golf,2015,4.7,Electric,49162.009999999995
+Volkswagen,Golf,2015,4.7,Electric,49162.01
 Volkswagen,Golf,2015,4.8,Electric,45323.81
 Volkswagen,Golf,2015,5.0,Diesel,16626.79
 Volkswagen,Golf,2016,1.5,Diesel,32196.41
@@ -8866,7 +8866,7 @@ Volkswagen,Golf,2017,2.5,Diesel,32847.13
 Volkswagen,Golf,2017,2.5,Petrol,41633.9
 Volkswagen,Golf,2017,4.0,Hybrid,49439.63
 Volkswagen,Golf,2017,4.2,Diesel,46011.86
-Volkswagen,Golf,2018,1.2,Hybrid,57040.314999999995
+Volkswagen,Golf,2018,1.2,Hybrid,57040.31
 Volkswagen,Golf,2018,1.4,Diesel,75618.06
 Volkswagen,Golf,2018,1.4,Electric,16249.99
 Volkswagen,Golf,2018,1.6,Hybrid,75271.9
@@ -8886,7 +8886,7 @@ Volkswagen,Golf,2018,4.1,Electric,22806.07
 Volkswagen,Golf,2018,4.5,Hybrid,49203.47
 Volkswagen,Golf,2018,4.8,Electric,48419.82
 Volkswagen,Golf,2019,1.2,Electric,79656.04
-Volkswagen,Golf,2019,1.3,Diesel,57912.595
+Volkswagen,Golf,2019,1.3,Diesel,57912.6
 Volkswagen,Golf,2019,1.4,Petrol,29631.91
 Volkswagen,Golf,2019,1.8,Electric,34306.56
 Volkswagen,Golf,2019,1.8,Petrol,21669.47
@@ -8964,7 +8964,7 @@ Volkswagen,Jetta,2011,3.9,Electric,57332.0
 Volkswagen,Jetta,2011,4.4,Petrol,53497.67
 Volkswagen,Jetta,2011,4.5,Diesel,62759.81
 Volkswagen,Jetta,2011,4.5,Electric,20840.27
-Volkswagen,Jetta,2011,4.7,Electric,42627.465
+Volkswagen,Jetta,2011,4.7,Electric,42627.46
 Volkswagen,Jetta,2012,1.0,Electric,44211.35
 Volkswagen,Jetta,2012,1.3,Electric,52238.91
 Volkswagen,Jetta,2012,1.4,Diesel,23806.51
@@ -8975,7 +8975,7 @@ Volkswagen,Jetta,2012,3.3,Petrol,19122.56
 Volkswagen,Jetta,2012,3.4,Electric,15552.48
 Volkswagen,Jetta,2012,3.4,Hybrid,15122.09
 Volkswagen,Jetta,2012,3.8,Diesel,16000.04
-Volkswagen,Jetta,2012,4.1,Petrol,33517.075
+Volkswagen,Jetta,2012,4.1,Petrol,33517.07
 Volkswagen,Jetta,2012,4.2,Petrol,57225.95
 Volkswagen,Jetta,2012,4.4,Diesel,46862.34
 Volkswagen,Jetta,2012,5.0,Petrol,57257.82
@@ -9036,13 +9036,13 @@ Volkswagen,Jetta,2015,2.6,Hybrid,15264.67
 Volkswagen,Jetta,2015,2.7,Hybrid,15956.55
 Volkswagen,Jetta,2015,2.8,Petrol,47822.76
 Volkswagen,Jetta,2015,2.9,Diesel,56667.43
-Volkswagen,Jetta,2015,3.2,Electric,33678.869999999995
+Volkswagen,Jetta,2015,3.2,Electric,33678.87
 Volkswagen,Jetta,2015,3.3,Diesel,50336.82
 Volkswagen,Jetta,2015,3.3,Hybrid,44770.1
 Volkswagen,Jetta,2015,3.5,Petrol,43624.47
 Volkswagen,Jetta,2015,3.8,Hybrid,75729.83
 Volkswagen,Jetta,2015,3.9,Diesel,55904.26
-Volkswagen,Jetta,2015,4.0,Diesel,54335.015
+Volkswagen,Jetta,2015,4.0,Diesel,54335.02
 Volkswagen,Jetta,2015,4.0,Petrol,67453.25
 Volkswagen,Jetta,2015,4.1,Diesel,56196.23
 Volkswagen,Jetta,2015,4.2,Petrol,45181.56
@@ -9053,7 +9053,7 @@ Volkswagen,Jetta,2016,1.3,Electric,63281.63
 Volkswagen,Jetta,2016,1.4,Petrol,18465.67
 Volkswagen,Jetta,2016,1.7,Petrol,27913.06
 Volkswagen,Jetta,2016,2.1,Hybrid,24233.52
-Volkswagen,Jetta,2016,2.5,Petrol,49741.215
+Volkswagen,Jetta,2016,2.5,Petrol,49741.22
 Volkswagen,Jetta,2016,2.6,Electric,24054.09
 Volkswagen,Jetta,2016,3.5,Hybrid,54433.53
 Volkswagen,Jetta,2016,3.6,Electric,23258.37
@@ -9097,14 +9097,14 @@ Volkswagen,Jetta,2019,2.3,Diesel,40210.0
 Volkswagen,Jetta,2019,2.3,Hybrid,42237.31
 Volkswagen,Jetta,2019,2.4,Diesel,37981.07
 Volkswagen,Jetta,2019,2.5,Electric,53726.54
-Volkswagen,Jetta,2019,2.5,Hybrid,66121.48000000001
+Volkswagen,Jetta,2019,2.5,Hybrid,66121.48
 Volkswagen,Jetta,2019,2.6,Electric,31935.84
 Volkswagen,Jetta,2019,3.0,Diesel,18021.56
 Volkswagen,Jetta,2019,3.3,Diesel,34797.09
 Volkswagen,Jetta,2019,3.4,Hybrid,24961.94
 Volkswagen,Jetta,2019,3.5,Diesel,76976.43
 Volkswagen,Jetta,2019,3.7,Hybrid,30827.57
-Volkswagen,Jetta,2019,3.9,Electric,51473.285
+Volkswagen,Jetta,2019,3.9,Electric,51473.28
 Volkswagen,Jetta,2019,4.5,Diesel,22353.6
 Volkswagen,Jetta,2019,4.8,Electric,77868.8
 Volkswagen,Jetta,2019,4.9,Electric,64776.06
@@ -9114,7 +9114,7 @@ Volkswagen,Jetta,2020,1.5,Hybrid,19320.21
 Volkswagen,Jetta,2020,1.6,Diesel,21171.29
 Volkswagen,Jetta,2020,2.1,Hybrid,16373.52
 Volkswagen,Jetta,2020,2.3,Diesel,44457.82
-Volkswagen,Jetta,2020,2.4,Diesel,47170.165
+Volkswagen,Jetta,2020,2.4,Diesel,47170.16
 Volkswagen,Jetta,2020,2.4,Electric,59693.89
 Volkswagen,Jetta,2020,3.0,Hybrid,26643.96
 Volkswagen,Jetta,2020,3.1,Diesel,25881.99
@@ -9168,7 +9168,7 @@ Volkswagen,Passat,2012,3.3,Petrol,28921.2
 Volkswagen,Passat,2012,3.4,Diesel,44013.24
 Volkswagen,Passat,2012,3.7,Hybrid,63369.62
 Volkswagen,Passat,2012,4.1,Hybrid,34933.05
-Volkswagen,Passat,2012,4.1,Petrol,59037.545
+Volkswagen,Passat,2012,4.1,Petrol,59037.54
 Volkswagen,Passat,2012,4.3,Hybrid,40161.12
 Volkswagen,Passat,2012,5.0,Hybrid,57558.56
 Volkswagen,Passat,2013,1.1,Electric,34141.93
@@ -9179,7 +9179,7 @@ Volkswagen,Passat,2013,1.8,Petrol,65855.13
 Volkswagen,Passat,2013,2.0,Electric,57558.11
 Volkswagen,Passat,2013,2.5,Electric,17816.91
 Volkswagen,Passat,2013,2.9,Diesel,58952.34
-Volkswagen,Passat,2013,2.9,Electric,55736.105
+Volkswagen,Passat,2013,2.9,Electric,55736.1
 Volkswagen,Passat,2013,3.7,Hybrid,79142.77
 Volkswagen,Passat,2013,3.8,Diesel,50117.54
 Volkswagen,Passat,2013,4.6,Petrol,36232.4
@@ -9235,7 +9235,7 @@ Volkswagen,Passat,2017,2.6,Hybrid,18703.95
 Volkswagen,Passat,2017,2.6,Petrol,23611.61
 Volkswagen,Passat,2017,2.7,Electric,19747.5
 Volkswagen,Passat,2017,2.9,Hybrid,29383.32
-Volkswagen,Passat,2017,3.9,Diesel,24755.489999999998
+Volkswagen,Passat,2017,3.9,Diesel,24755.49
 Volkswagen,Passat,2017,3.9,Electric,75207.82
 Volkswagen,Passat,2017,4.0,Electric,27534.99
 Volkswagen,Passat,2017,4.0,Petrol,64586.4
@@ -9312,7 +9312,7 @@ Volkswagen,Tiguan,2011,1.1,Petrol,52082.83
 Volkswagen,Tiguan,2011,1.2,Hybrid,54918.27
 Volkswagen,Tiguan,2011,1.4,Diesel,24226.7
 Volkswagen,Tiguan,2011,2.0,Electric,47438.61
-Volkswagen,Tiguan,2011,2.1,Electric,34949.015
+Volkswagen,Tiguan,2011,2.1,Electric,34949.02
 Volkswagen,Tiguan,2011,2.4,Hybrid,78774.88
 Volkswagen,Tiguan,2011,2.5,Electric,21511.18
 Volkswagen,Tiguan,2011,2.8,Diesel,63390.49
@@ -9382,7 +9382,7 @@ Volkswagen,Tiguan,2015,2.4,Hybrid,72374.12
 Volkswagen,Tiguan,2015,2.4,Petrol,61346.96
 Volkswagen,Tiguan,2015,2.7,Electric,43044.59
 Volkswagen,Tiguan,2015,2.9,Diesel,63198.07
-Volkswagen,Tiguan,2015,3.0,Diesel,50536.095
+Volkswagen,Tiguan,2015,3.0,Diesel,50536.1
 Volkswagen,Tiguan,2015,3.0,Electric,19641.44
 Volkswagen,Tiguan,2015,3.1,Electric,73569.36
 Volkswagen,Tiguan,2015,3.3,Diesel,33737.48
@@ -9403,7 +9403,7 @@ Volkswagen,Tiguan,2016,2.4,Hybrid,35029.99
 Volkswagen,Tiguan,2016,2.5,Electric,74997.06
 Volkswagen,Tiguan,2016,2.6,Petrol,78105.78
 Volkswagen,Tiguan,2016,3.4,Diesel,20330.82
-Volkswagen,Tiguan,2016,3.4,Hybrid,51420.205
+Volkswagen,Tiguan,2016,3.4,Hybrid,51420.2
 Volkswagen,Tiguan,2016,3.5,Electric,41075.19
 Volkswagen,Tiguan,2016,3.7,Diesel,38504.47
 Volkswagen,Tiguan,2016,3.9,Petrol,62955.5
@@ -9476,7 +9476,7 @@ Volkswagen,Tiguan,2020,1.5,Diesel,30082.08
 Volkswagen,Tiguan,2020,1.6,Electric,70445.37
 Volkswagen,Tiguan,2020,1.8,Electric,44706.9
 Volkswagen,Tiguan,2020,1.9,Diesel,27473.47
-Volkswagen,Tiguan,2020,2.0,Hybrid,33596.240000000005
+Volkswagen,Tiguan,2020,2.0,Hybrid,33596.24
 Volkswagen,Tiguan,2020,2.7,Petrol,48428.32
 Volkswagen,Tiguan,2020,2.8,Diesel,18341.63
 Volkswagen,Tiguan,2020,2.8,Electric,28601.9

@@ -4,14 +4,20 @@ import matplotlib.pyplot as plt
 # Load the dataset
 df = pd.read_csv('cars_2010_2020.csv')
 
-# Calculate the average price for each make
+# Calculate the average price for each make, take the columns from the original csv file
 average_make = df.groupby(['Make', 'Year', 'Engine Size (L)', 'Fuel Type'])['Price (USD)'].mean().reset_index()
 average_make.columns = ['Make', 'Year', 'Engine Size (L)', 'Fuel Type', 'Average_Price']
 print(average_make)
 
-# Calculate the average price for each model
+average_make['Average_Price'] = average_make['Average_Price'].round(2)
+print(average_make)
+
+# Calculate the average price for each model, take the columns from the original csv file
 average_model = df.groupby(['Make', 'Model', 'Year', 'Engine Size (L)', 'Fuel Type'])['Price (USD)'].mean().reset_index()
 average_model.columns = ['Make', 'Model', 'Year', 'Engine Size (L)', 'Fuel Type', 'Average_Price']
+print(average_model)
+
+average_model['Average_Price'] = average_model['Average_Price'].round(2)
 print(average_model)
 
 #Do the same, but for plotting (Other DataFrame Holds Too Much Information Due to Extra Columns)

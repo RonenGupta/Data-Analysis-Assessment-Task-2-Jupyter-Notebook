@@ -1,42 +1,50 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+
+# Load the dataset
 df = pd.read_csv('cars_2010_2020.csv')
 
-def Sorting_Make():
-    global df
+# Calculate the average price for each make
+average_make = df.groupby(['Make', 'Year', 'Engine Size (L)', 'Fuel Type'])['Price (USD)'].mean().reset_index()
+average_make.columns = ['Make', 'Year', 'Engine Size (L)', 'Fuel Type', 'Average_Price']
+print(average_make)
 
-df = df.sort_values('Make')
+# Calculate the average price for each model
+average_model = df.groupby(['Make', 'Model', 'Year', 'Engine Size (L)', 'Fuel Type'])['Price (USD)'].mean().reset_index()
+average_model.columns = ['Make', 'Model', 'Year', 'Engine Size (L)', 'Fuel Type', 'Average_Price']
+print(average_model)
 
-Sorting_Make()
+#Do the same, but for plotting (Other DataFrame Holds Too Much Information Due to Extra Columns)
+average_makeplot = df.groupby(['Make'])['Price (USD)'].mean().reset_index()
+average_makeplot.columns = ['Make', 'Average_MakePlot']
 
+#Do the same, but for plotting (Other DataFrame Holds Too Much Information Due to Extra Columns)
+average_modelplot = df.groupby(['Model'])['Price (USD)'].mean().reset_index()
+average_modelplot.columns = ['Model', 'Average_ModelPlot']
 
-
-def Sorting_Model():
-    global df
-
-df = df.sort_values('Model')
-
-Sorting_Model()
-
-print(df)
-
-#def outputting_model():
-   # global plt
-
-df.plot(
-    kind = 'bar',
-    x ='Make',
-    y='Price (USD)',
+# Plot the average price for each make
+average_makeplot.plot(
+    kind='bar',
+    x='Make',
+    y='Average_MakePlot',
     color='blue',
     alpha=0.3,
-    title="Plot"
-    )
+    title="Comparison of Average Make Prices"
+)
+
+
+
+# Plot the average price for each model
+average_modelplot.plot(
+    kind='bar',
+    x='Model',
+    y='Average_ModelPlot',
+    color='blue',
+    alpha=0.3,
+    title="Comparison of Average Model Prices"
+)
 
 plt.show()
 
-#print(df['Price (USD)'].mean())
-#print(df['Model'].value_counts())
-
-
-#print(df.describe())
-
+average_make.to_csv('Average_Make.csv', index=False)
+average_model.to_csv('Average_Model.csv', index=False)

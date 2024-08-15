@@ -51,6 +51,7 @@ def data_make():
 
 # Function to create the bar plot for Make (Reused from previous Documentation)
 def plot_make():
+# Create a figure and axes object to plot
     fig, ax = plt.subplots()
     avg_price_by_make.plot(
         kind='bar',
@@ -68,6 +69,7 @@ def plot_make():
 
 # Function to create the bar plot for Model (Reused from previous Documentation)
 def plot_model():
+# Create a figure and axes object to plot
     fig, ax = plt.subplots()
     avg_price_by_model.plot(
         kind='bar',

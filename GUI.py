@@ -36,11 +36,13 @@ carsnotebook.pack(fill='both', expand=True)
 makeframe = ttk.Frame(carsnotebook)
 modelframe = ttk.Frame(carsnotebook)
 dataframe = ttk.Frame(carsnotebook)
+helpframe = ttk.Frame(carsnotebook)
 
 # Add frames to notebook
 carsnotebook.add(makeframe, text='Make Prices')
 carsnotebook.add(modelframe, text='Model Prices')
 carsnotebook.add(dataframe, text='DataFrame')
+carsnotebook.add(helpframe, text = 'Help')
 
 # Inserting Pandas Dataframe into the GUI: First Convert to String, create a text widget and insert it into the widget. 
 def data_make():
@@ -85,7 +87,7 @@ def plot_model():
     canvas.draw()
     canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=1)
 
-# Create buttons to reveal the plots and the dataframe (Calling the function for revealing the graphs and the dataframe)
+# Create buttons/text to reveal the plots and the dataframe and help text (Calling the function for revealing the graphs and the dataframe and help text)
 Plot1_Make = tk.Button(makeframe, text="Plot Make Prices", command=plot_make)
 Plot1_Make.pack(pady=10)
 
@@ -94,6 +96,9 @@ Plot2_Model.pack(pady=10)
 
 DataFrame_Model = tk.Button(dataframe, text="Show DataFrame", command=data_make)
 DataFrame_Model.pack(pady=10)
+
+Help_Text = tk.Label(helpframe, text="For context, the first frame contains the average brand pricing, second frame average model pricing of each brand, and the third frame contains all the information in the original dataframe.")
+Help_Text.place(x=50, y=50)
 
 # Finally reveal the GUI
 root.mainloop()
